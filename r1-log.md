@@ -15,3 +15,4 @@ The log of my #100DaysOfCode challenge. Started on [June 14, Thursday, 2018].
   starting with Sass lesson  
 * @khanacademy Advanced JS: Games & Visualizations to lesson 24  
 * and still reading bout #Python, etc. etc. ^^
+* at night: Sass lesson of @freeCodeCamp Front End Libraries Certification

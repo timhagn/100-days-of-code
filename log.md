@@ -13,13 +13,14 @@
 
 
 
-### Day 7: June 14, Thursday - June 19, Wednesday
+### Day 7: June 20, Wednesday
 
 **Today's Progress**:
 * first two lessons of @freeCodeCamp Front End Libraries Certification (Bootstrap & jQuery),  
   starting with Sass lesson  
 * @khanacademy Advanced JS: Games & Visualizations to lesson 24  
 * and still reading bout #Python, etc. etc. ^^
+* at night: Sass lesson of @freeCodeCamp Front End Libraries Certification
 
 **Link(s) to work**
 1. [freeCodeCamp Profile](https://www.freecodecamp.org/timhagn)
