@@ -16,3 +16,11 @@ The log of my #100DaysOfCode challenge. Started on [June 14, Thursday, 2018].
 * @khanacademy Advanced JS: Games & Visualizations to lesson 24  
 * and still reading bout #Python, etc. etc. ^^
 * at night: Sass lesson of @freeCodeCamp Front End Libraries Certification
+
+### R1D8
+* @khanacademy Advanced JS: Games & Visualizations last two lessons,
+  not including projects  
+* wrote #Python script to solve Clue #3 in @khanacademy Cryptography challenge 101
+* completed React lesson of @freeCodeCamp Front End Libraries Certification
+* cloned and began to write in this log
+* prepared and played around with a #Python script to automate writing in this log(s) ^^
