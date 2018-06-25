@@ -24,3 +24,25 @@ The log of my #100DaysOfCode challenge. Started on [June 14, Thursday, 2018].
 * completed React lesson of @freeCodeCamp Front End Libraries Certification
 * cloned and began to write in this log
 * prepared and played around with a #Python script to automate writing in this log(s) ^^
+
+### R1D9
+* completed Redux & Redux and React lessons of @freeCodeCamp
+  Front End Libraries Certification.
+* initialized local razzle + Redux playground for the Projects to follow
+* played a little more with the #Python script to automate writing in the logs
+
+### R1D10
+* tried doing first Project of @freeCodeCamp Front End Libraries Certification,
+  Random Quotes, with React + Redux, but SSR in local Playground needed some
+  tinkering.
+* much reading on SSR, Python, Twitter API, etc.
+
+### R1D11
+* after wrecking my head I got the Project running in #CodePen,
+  but #Redux still makes Problems
+* read more about #Python and a little bout Natural Distributions
+
+### R1D12
+* didn't get to do much today, as I had to save a client's hacked Website
+* read again about #Python and more bout Natural Distributions and did some
+  Challenges on @KhanAcademy

@@ -45,3 +45,48 @@
 **Link(s) to work**  
 
 1. [Log on GitHub](https://github.com/timhagn/100-days-of-code)
+
+
+
+### Day 9: June 22, Friday
+
+**Today's Progress**:  
+
+* completed Redux & Redux and React lessons of @freeCodeCamp
+  Front End Libraries Certification.
+* initialized local razzle + Redux playground for the Projects to follow
+* played a little more with the #Python script to automate writing in the logs
+
+**Link(s) to work**  
+
+1. [freeCodeCamp Profile](https://www.freecodecamp.org/timhagn)
+
+
+
+### Day 10: June 23, Saturday
+
+**Today's Progress**:  
+
+* tried doing first Project of @freeCodeCamp Front End Libraries Certification,
+  Random Quotes, with React + Redux, but SSR in local Playground needed some
+  tinkering.
+* much reading on SSR, Python, Twitter API, etc.
+
+
+### Day 11, June 24, Sunday
+
+**Today's Progress**:  
+
+* after wracking my head I got the Project running in #CodePen,
+  but Redux still makes Problems
+* read more about #Python and a little bout Natural Distributions
+
+
+
+### Day 12, June 25, Monday
+
+**Today's Progress**:  
+
+* didn't get to do much today, as I had to save a client's hacked Website
+* read again about #Python and more bout Natural Distributions and did some
+  Challenges on @KhanAcademy
