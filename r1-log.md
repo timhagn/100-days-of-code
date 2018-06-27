@@ -50,3 +50,9 @@ The log of my #100DaysOfCode challenge. Started on [June 14, Thursday, 2018].
 ### R1D13
 * didn't get to much today, again - Hacking aftermath bug-fixing % )
 * did some Challenges on @KhanAcademy
+
+### R1D14
+* still a little groggy, but tinkered with @babel 7
+  & #freeCodeCamp Projects
+* did some Challenges on @KhanAcademy again,
+  but their streak counter is buggy -.-

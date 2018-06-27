@@ -103,3 +103,14 @@
 **Link(s) to work**  
 
 1. [Paint 'Splatters'](https://tinyurl.com/khanchall)
+
+
+
+### Day 14, June 27, Wednesday
+
+**Today's Progress**:  
+
+* still a little groggy, but tinkered with @babel 7 
+  & #freeCodeCamp Projects
+* did some Challenges on @KhanAcademy again,
+  but their streak counter is buggy -.-
