@@ -46,3 +46,7 @@ The log of my #100DaysOfCode challenge. Started on [June 14, Thursday, 2018].
 * didn't get to do much today, as I had to save a client's hacked Website
 * read again about #Python and more bout Natural Distributions and did some
   Challenges on @KhanAcademy
+
+### R1D13
+* didn't get to much today, again - Hacking aftermath bug-fixing % )
+* did some Challenges on @KhanAcademy

@@ -77,8 +77,8 @@
 
 **Today's Progress**:  
 
-* after wracking my head I got the Project running in #CodePen,
-  but Redux still makes Problems
+* after wrecking my head I got the Project running in #CodePen,
+  but #Redux still makes Problems
 * read more about #Python and a little bout Natural Distributions
 
 
@@ -90,3 +90,16 @@
 * didn't get to do much today, as I had to save a client's hacked Website
 * read again about #Python and more bout Natural Distributions and did some
   Challenges on @KhanAcademy
+
+
+
+### Day 13, June 26, Tuesday
+
+**Today's Progress**:  
+
+* didn't get to much today, again - Hacking aftermath bug-fixing % )
+* did some Challenges on @KhanAcademy
+
+**Link(s) to work**  
+
+1. [Paint 'Splatters'](https://tinyurl.com/khanchall)
