@@ -56,3 +56,18 @@ The log of my #100DaysOfCode challenge. Started on [June 14, Thursday, 2018].
   & #freeCodeCamp Projects
 * did some Challenges on @KhanAcademy again,
   but their streak counter is buggy -.-
+
+### R1D15
+* had a meeting with a client, so only
+  some Challenges on @KhanAcademy again
+* read more #Python and bout #React Context API
+
+### R1D16
+* prepared for a Drupal 8 project with
+  legacy base % )
+* started Memory Game Project on @KhanAcademy
+
+### R1D17
+* finally finished #freeCodeCamp Project
+  "Random Quotes Machine" with #React Context API
+* more reading and challenges : )

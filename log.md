@@ -110,7 +110,41 @@
 
 **Today's Progress**:  
 
-* still a little groggy, but tinkered with @babel 7 
+* still a little groggy, but tinkered with @babel 7
   & #freeCodeCamp Projects
 * did some Challenges on @KhanAcademy again,
   but their streak counter is buggy -.-
+
+
+
+### Day 15, June 28, Thursday
+
+**Today's Progress**:  
+
+* had a meeting with a client, so only
+  some Challenges on @KhanAcademy again
+* read more #Python and bout #React Context API
+
+
+
+### Day 16, June 29, Friday
+
+**Today's Progress**:  
+
+* prepared for a Drupal 8 project with
+  legacy base % )
+* started Memory Game Project on @KhanAcademy
+
+1. [Memory Game++](https://tinyurl.com/khanmemp)
+
+
+
+### Day 17, June 30, Saturday
+
+**Today's Progress**:  
+
+* finally finished #freeCodeCamp Project
+  "Random Quotes Machine" with #React Context API
+* more reading and challenges : )
+
+1. [Random Quotes Machine](https://tinyurl.com/fccrqu)
