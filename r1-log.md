@@ -71,3 +71,10 @@ The log of my #100DaysOfCode challenge. Started on [June 14, Thursday, 2018].
 * finally finished #freeCodeCamp Project
   "Random Quotes Machine" with #React Context API
 * more reading and challenges : )
+
+### R1D18
+* cleaned up "Random Quotes Machine"
+  #freeCodeCamp Project
+* dived into Context API + Redux
+* nearly finished @KhanAcademy 's
+  Advanced JS: Games & Visualizations

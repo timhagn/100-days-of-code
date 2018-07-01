@@ -148,3 +148,17 @@
 * more reading and challenges : )
 
 1. [Random Quotes Machine](https://tinyurl.com/fccrqu)
+
+
+
+### Day 18, July 1, Sunday
+
+**Today's Progress**:  
+
+* cleaned up "Random Quotes Machine"
+  #freeCodeCamp Project
+* dived into Context API + Redux
+* nearly finished @KhanAcademy 's
+  Advanced JS: Games & Visualizations
+
+1. [Random Quotes Machine](https://tinyurl.com/fccrqu)
