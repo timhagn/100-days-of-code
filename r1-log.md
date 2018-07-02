@@ -78,3 +78,8 @@ The log of my #100DaysOfCode challenge. Started on [June 14, Thursday, 2018].
 * dived into Context API + Redux
 * nearly finished @KhanAcademy 's
   Advanced JS: Games & Visualizations
+
+### R1D19
+* got further with @KhanAcademy 's
+  Journey into cryptography
+* used more #Redux

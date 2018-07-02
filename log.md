@@ -162,3 +162,13 @@
   Advanced JS: Games & Visualizations
 
 1. [Random Quotes Machine](https://tinyurl.com/fccrqu)
+
+
+
+### Day 19, July 2, Monday
+
+**Today's Progress**:  
+
+* got further with @KhanAcademy 's
+  Journey into cryptography
+* used more #Redux
