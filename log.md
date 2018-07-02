@@ -171,4 +171,6 @@
 
 * got further with @KhanAcademy 's
   Journey into cryptography
-* used more #Redux
+* used and digged deeper into #Redux
+* looked where I might contribute
+  to #OSS repos : )

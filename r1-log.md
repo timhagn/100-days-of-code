@@ -82,4 +82,4 @@ The log of my #100DaysOfCode challenge. Started on [June 14, Thursday, 2018].
 ### R1D19
 * got further with @KhanAcademy 's
   Journey into cryptography
-* used more #Redux
+* used and digged deeper into #Redux
