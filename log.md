@@ -180,9 +180,9 @@
 ### Day 20, July 3, Tuesday
 
 **Today's Progress**:  
-* refactored "Random Quotes Machine"
+* reprog "Random Quotes Machine"
   #freeCodeCamp Project
-  to #React & #Redux
+  to #reactjs & #Redux
 * digged into Middleware
-  & Currying with ES6
+  & Currying with #ES6
 * did some @KhanAcademy challenges

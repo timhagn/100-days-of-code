@@ -87,9 +87,9 @@ The log of my #100DaysOfCode challenge. Started on [June 14, Thursday, 2018].
   to #OSS repos : )
 
 ### R1D20
-* refactored "Random Quotes Machine"
+* reprog "Random Quotes Machine"
   #freeCodeCamp Project
-  to #React & #Redux
+  to #reactjs & #Redux
 * digged into Middleware
   & Currying with #ES6
 * did some @KhanAcademy challenges
