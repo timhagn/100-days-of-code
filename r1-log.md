@@ -83,3 +83,13 @@ The log of my #100DaysOfCode challenge. Started on [June 14, Thursday, 2018].
 * got further with @KhanAcademy 's
   Journey into cryptography
 * used and digged deeper into #Redux
+* looked where I might contribute
+  to #OSS repos : )
+
+### R1D20
+* refactored "Random Quotes Machine"
+  #freeCodeCamp Project
+  to #React & #Redux
+* digged into Middleware
+  & Currying with #ES6
+* did some @KhanAcademy challenges

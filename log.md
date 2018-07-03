@@ -174,3 +174,15 @@
 * used and digged deeper into #Redux
 * looked where I might contribute
   to #OSS repos : )
+
+
+
+### Day 20, July 3, Tuesday
+
+**Today's Progress**:  
+* refactored "Random Quotes Machine"
+  #freeCodeCamp Project
+  to #React & #Redux
+* digged into Middleware
+  & Currying with ES6
+* did some @KhanAcademy challenges
