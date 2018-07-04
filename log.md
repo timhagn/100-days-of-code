@@ -186,3 +186,17 @@
 * digged into Middleware
   & Currying with #ES6
 * did some @KhanAcademy challenges
+
+
+
+### Day 21, July 3, Wednesday
+
+**Today's Progress**:  
+Not much for today, had to work
+on a client's mobile-menu.
+But:
+* did some @KhanAcademy challenges
+* prepared second @freeCodeCamp
+  Frontend Library Cert Project
+* some more reading for #Python
+* some reading on #GDPR % )

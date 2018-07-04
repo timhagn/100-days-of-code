@@ -93,3 +93,13 @@ The log of my #100DaysOfCode challenge. Started on [June 14, Thursday, 2018].
 * digged into Middleware
   & Currying with #ES6
 * did some @KhanAcademy challenges
+
+### R1D21
+Not much for today, had to work
+on a client's mobile-menu.
+But:
+* did some @KhanAcademy challenges
+* prepared second @freeCodeCamp
+  Frontend Library Cert Project
+* some more reading for #Python
+* some reading on #GDPR % )
