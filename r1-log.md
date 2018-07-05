@@ -103,3 +103,12 @@ But:
   Frontend Library Cert Project
 * some more reading for #Python
 * some reading on #GDPR % )
+
+### R1D22
+Although I'm still working on the
+client's site, I did:
+* finish the second @freeCodeCamp
+  Frontend Library Cert Project
+  "Build a Markdown Previewer"
+* more reading on #GDPR & #Python
+* some @KhanAcademy challenges

@@ -135,6 +135,8 @@
   legacy base % )
 * started Memory Game Project on @KhanAcademy
 
+**Link(s) to work**  
+
 1. [Memory Game++](https://tinyurl.com/khanmemp)
 
 
@@ -146,6 +148,8 @@
 * finally finished #freeCodeCamp Project
   "Random Quotes Machine" with #React Context API
 * more reading and challenges : )
+
+**Link(s) to work**  
 
 1. [Random Quotes Machine](https://tinyurl.com/fccrqu)
 
@@ -160,6 +164,8 @@
 * dived into Context API + Redux
 * nearly finished @KhanAcademy 's
   Advanced JS: Games & Visualizations
+
+**Link(s) to work**  
 
 1. [Random Quotes Machine](https://tinyurl.com/fccrqu)
 
@@ -189,7 +195,7 @@
 
 
 
-### Day 21, July 3, Wednesday
+### Day 21, July 4, Wednesday
 
 **Today's Progress**:  
 Not much for today, had to work
@@ -200,3 +206,20 @@ But:
   Frontend Library Cert Project
 * some more reading for #Python
 * some reading on #GDPR % )
+
+
+
+### Day 22, July 5, Thursday
+
+**Today's Progress**:  
+Although I'm still working on the
+client's site, I did:
+* finish the second @freeCodeCamp
+  Frontend Library Cert Project
+  "Build a Markdown Previewer"
+* more reading on #GDPR & #Python
+* some @KhanAcademy challenges
+
+**Link(s) to work**  
+
+1. [Markdown Previewer](https://tinyurl.com/rr-md-pr)
