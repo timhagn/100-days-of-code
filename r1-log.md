@@ -112,3 +112,10 @@ client's site, I did:
   "Build a Markdown Previewer"
 * more reading on #GDPR & #Python
 * some @KhanAcademy challenges
+
+### R1D23
+Oh, I jumped a day (21th) here % )
+So, fitting, on a prime day I did
+* nearly finish @KhanAcademy's
+  "Journey into Cryptography"
+* more reading on #GDPR & #Python

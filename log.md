@@ -223,3 +223,14 @@ client's site, I did:
 **Link(s) to work**  
 
 1. [Markdown Previewer](https://tinyurl.com/rr-md-pr)
+
+
+
+### Day 23, July 6, Friday
+
+**Today's Progress**:  
+Oh, I jumped a day (21th) here % )
+So, fitting, on a prime day I did
+* nearly finish @KhanAcademy's
+  "Journey into Cryptography"
+* more reading on #GDPR & #Python
