@@ -119,3 +119,12 @@ So, fitting, on a prime day I did
 * nearly finish @KhanAcademy's
   "Journey into Cryptography"
 * more reading on #GDPR & #Python
+
+### R1D24 + 25
+Was relaxing a little yesterday
+and only wrote part of a #Python
+script for the challenge
+and today I:
+* finished @KhanAcademy's
+  "Journey into Cryptography" : )
+* read more about #Python

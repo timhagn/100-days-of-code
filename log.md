@@ -234,3 +234,16 @@ So, fitting, on a prime day I did
 * nearly finish @KhanAcademy's
   "Journey into Cryptography"
 * more reading on #GDPR & #Python
+
+
+
+### Day 24, July 7, Saturday + Day 24, July 8, Sunday
+
+**Today's Progress**:  
+Was relaxing a little yesterday
+and only wrote part of a #Python
+script for the challenge
+and today I:
+* finished @KhanAcademy's
+  "Journey into Cryptography" : )
+* read more about #Python 
