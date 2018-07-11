@@ -237,7 +237,7 @@ So, fitting, on a prime day I did
 
 
 
-### Day 24, July 7, Saturday + Day 24, July 8, Sunday
+### Day 24, July 7, Saturday + Day 25, July 8, Sunday
 
 **Today's Progress**:  
 Was relaxing a little yesterday
@@ -246,4 +246,41 @@ script for the challenge
 and today I:
 * finished @KhanAcademy's
   "Journey into Cryptography" : )
-* read more about #Python 
+* read more about #Python
+
+
+
+### Day 26, July 9, Monday
+
+**Today's Progress**:
+Didn't get to tweet yesterday,
+so here are my proceedings
+* started @KhanAcademy's
+  "Journey into
+  information theory"
+* finished a coding challenge
+  by @dan_abramov but it
+  seems like his mailbox ran
+  amok with DMs ^^
+
+**Link(s) to work**    
+
+1. [Dan's Afterthought](https://twitter.com/dan_abramov/status/1016492013443866626)
+
+
+
+### Day 27, July 10, Tuesday
+
+**Today's Progress**:
+* finished third @freeCodeCamp
+  Frontend Library Cert Project
+  "Build a Drum Machine", but
+  still have TODO:
+  Styling, Bank switch, etc. ; )
+* more reading and playing
+  around with #React & #Redux
+  and packaging
+
+**Link(s) to work**    
+
+1. [Drum Machine](https://tinyurl.com/fcc-rr-dm)

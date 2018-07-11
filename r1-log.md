@@ -128,3 +128,24 @@ and today I:
 * finished @KhanAcademy's
   "Journey into Cryptography" : )
 * read more about #Python
+
+### R1D26
+Didn't get to tweet yesterday,
+so here are my proceedings
+* started @KhanAcademy's
+  "Journey into
+  information theory"
+* finished a coding challenge
+  by @dan_abramov but it
+  seems like his mailbox ran
+  amok with DMs ^^
+
+### R1D27
+* finished third @freeCodeCamp
+  Frontend Library Cert Project
+  "Build a Drum Machine", but
+  still have TODO:
+  Styling, Bank switch, etc. ; )
+* more reading and playing
+  around with #React & #Redux
+  and packaging
