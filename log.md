@@ -284,3 +284,18 @@ so here are my proceedings
 **Link(s) to work**    
 
 1. [Drum Machine](https://tinyurl.com/fcc-rr-dm)
+
+
+
+### Day 28, July 11, Wednesday
+
+**Today's Progress**:  
+Not much done, had to implement
+GDPR compliant Privacy- &
+Cookie-policies and such for
+a client. But still I worked on:
+* @KhanAcademy's "Journey into
+  information theory"
+* some tinkering with the
+  @freeCodeCamp Project
+  Drum Machine

@@ -149,3 +149,14 @@ so here are my proceedings
 * more reading and playing
   around with #React & #Redux
   and packaging
+
+### R1D28
+Not much done, had to implement
+GDPR compliant Privacy- &
+Cookie-policies and such for
+a client. But still I worked on:
+* @KhanAcademy's "Journey into
+  information theory"
+* some tinkering with the
+  @freeCodeCamp Project
+  Drum Machine
