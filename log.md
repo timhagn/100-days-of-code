@@ -299,3 +299,28 @@ a client. But still I worked on:
 * some tinkering with the
   @freeCodeCamp Project
   Drum Machine
+
+
+
+### Day 29, July 12, Thursday
+* continued @KhanAcademy's
+  "Journey into
+  information theory"
+* "conquered" #GoogleAnalytics
+  #GDPR Privacy- & Cookie
+  compliant implementation.
+
+
+
+### Day 30, July 13, Friday
+Only read and talked about next
+steps of my freelance-journey
+and new Website. (Last one I
+did in 3-4 days for my
+Media-Design Exam 2015 % ).
+* Prepared (physically and mentally
+  ; ) for my the next "prime" of my
+  life with my wife
+  > It rhymes, and what rhymes,
+    is good.
+  (Pumuckl)
