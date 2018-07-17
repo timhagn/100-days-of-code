@@ -324,3 +324,16 @@ Media-Design Exam 2015 % ).
   > It rhymes, and what rhymes,
     is good.
   (Pumuckl)
+
+
+
+### Day 31, July 14, Saturday - Day 33, July 16, Monday
+Although I took it slowly on my
+B-Day and the "aftermath" the
+following days, I still managed
+to finish @KhanAcademy's "Journey
+into information theory" as well
+as "How Computers Work" and
+"How the internet works" (why did
+they put the basics at the end oO?).
+▓▓▓▓░░░░░░░ 33% (1/3 : )

@@ -179,3 +179,14 @@ a client. But still I worked on:
   > It rhymes, and what rhymes,
     is good.
   (Pumuckl ; )  
+
+### R1D31 - 33
+Although I took it slowly on my
+B-Day and the "aftermath" the
+following days, I still managed
+to finish @KhanAcademy's "Journey
+into information theory" as well
+as "How Computers Work" and
+"How the internet works" (why did
+they put the basics at the end oO?).
+▓▓▓▓░░░░░░░ 33% (1/3 : )
