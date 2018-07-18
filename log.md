@@ -337,3 +337,10 @@ as "How Computers Work" and
 "How the internet works" (why did
 they put the basics at the end oO?).
 ▓▓▓▓░░░░░░░ 33% (1/3 : )
+
+
+
+### Day 34, July 17, Tuesday
+Not much, just
+* started @freeCodeCamp Project
+  "Build a JavaScript Calculator"

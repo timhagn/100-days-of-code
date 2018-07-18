@@ -190,3 +190,8 @@ as "How Computers Work" and
 "How the internet works" (why did
 they put the basics at the end oO?).
 ▓▓▓▓░░░░░░░ 33% (1/3 : )
+
+### R1D34
+Not much, just
+* started @freeCodeCamp Project
+  "Build a JavaScript Calculator"
