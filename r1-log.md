@@ -195,3 +195,9 @@ they put the basics at the end oO?).
 Not much, just
 * started @freeCodeCamp Project
   "Build a JavaScript Calculator"
+
+### R1D35
+Just a few hours I
+* worked on and nearly finished
+  @freeCodeCamp Project
+  "Build a JavaScript Calculator"
