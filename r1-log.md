@@ -201,3 +201,10 @@ Just a few hours I
 * worked on and nearly finished
   @freeCodeCamp Project
   "Build a JavaScript Calculator"
+
+### R1D36
+* went on in @KhanAcademy's
+  "Advanced JS:
+   Natural Simulations"
+* finished @freeCodeCamp Project
+  "Build a JavaScript Calculator"

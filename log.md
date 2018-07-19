@@ -303,6 +303,8 @@ a client. But still I worked on:
 
 
 ### Day 29, July 12, Thursday
+
+**Today's Progress**:  
 * continued @KhanAcademy's
   "Journey into
   information theory"
@@ -313,6 +315,8 @@ a client. But still I worked on:
 
 
 ### Day 30, July 13, Friday
+
+**Today's Progress**:  
 Only read and talked about next
 steps of my freelance-journey
 and new Website. (Last one I
@@ -328,6 +332,8 @@ Media-Design Exam 2015 % ).
 
 
 ### Day 31, July 14, Saturday - Day 33, July 16, Monday
+
+**Today's Progress**:  
 Although I took it slowly on my
 B-Day and the "aftermath" the
 following days, I still managed
@@ -341,13 +347,30 @@ they put the basics at the end oO?).
 
 
 ### Day 34, July 17, Tuesday
+
+**Today's Progress**:  
 Not much, just
 * started @freeCodeCamp Project
   "Build a JavaScript Calculator"
 
 
 ### Day 35, July 18, Wednesday
+
+**Today's Progress**:  
 Just a few hours I
 * worked on and nearly finished
   @freeCodeCamp Project
   "Build a JavaScript Calculator"
+
+### Day 36, July 19, Thursday
+
+**Today's Progress**:
+* went on in @KhanAcademy's
+  "Advanced JS:
+   Natural Simulations"
+* finished @freeCodeCamp Project
+  "Build a JavaScript Calculator"
+
+**Link(s) to work**    
+
+1. [JS Calculator](https://tinyurl.com/fcc-rr-c)
