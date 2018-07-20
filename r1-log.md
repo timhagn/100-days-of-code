@@ -208,3 +208,9 @@ Just a few hours I
    Natural Simulations"
 * finished @freeCodeCamp Project
   "Build a JavaScript Calculator"
+
+### R1D37
+* back in @KhanAcademy's
+  "Advanced JS: Natural
+  Simulations" the Force(s)
+  was(were) with me ; )

@@ -354,6 +354,7 @@ Not much, just
   "Build a JavaScript Calculator"
 
 
+
 ### Day 35, July 18, Wednesday
 
 **Today's Progress**:  
@@ -361,6 +362,8 @@ Just a few hours I
 * worked on and nearly finished
   @freeCodeCamp Project
   "Build a JavaScript Calculator"
+
+
 
 ### Day 36, July 19, Thursday
 
@@ -374,3 +377,13 @@ Just a few hours I
 **Link(s) to work**    
 
 1. [JS Calculator](https://tinyurl.com/fcc-rr-c)
+
+
+
+### Day 37, July 20, Friday
+
+**Today's Progress**:
+* back in @KhanAcademy's 
+  "Advanced JS: Natural
+  Simulations" the Force(s)
+  was(were) with me ; )
