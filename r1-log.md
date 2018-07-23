@@ -214,3 +214,12 @@ Just a few hours I
   "Advanced JS: Natural
   Simulations" the Force(s)
   was(were) with me ; )
+
+### R1D38 - 40
+Didn't come to much, these last
+days, encountering my old fiend,
+the Blues. But still got to do
+some of @KhanAcademy's
+"Advanced JS: Natural Simulations"
+and reading more on #Python and
+=> #Entrepreneurship

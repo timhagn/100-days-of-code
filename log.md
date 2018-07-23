@@ -383,7 +383,20 @@ Just a few hours I
 ### Day 37, July 20, Friday
 
 **Today's Progress**:
-* back in @KhanAcademy's 
+* back in @KhanAcademy's
   "Advanced JS: Natural
   Simulations" the Force(s)
   was(were) with me ; )
+
+
+
+### Day 38, July 20, Saturday - Day 40, July 23, Monday
+
+**Today's Progress**:
+Didn't come to much, these last
+days, encountering my old fiend,
+the Blues. But still got to do
+some of @KhanAcademy's
+"Advanced JS: Natural Simulations"
+and reading more on #Python and
+=> #Entrepreneurship
