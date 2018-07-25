@@ -223,3 +223,15 @@ some of @KhanAcademy's
 "Advanced JS: Natural Simulations"
 and reading more on #Python and
 => #Entrepreneurship
+
+### R1D41
+Not much, just
+* started @freeCodeCamp Project
+  "Build a Pomodoro Clock"
+
+### R1D42
+* still in @KhanAcademy's
+  "Advanced JS: Natural
+  Simulations" I tried to
+  improve my Mountain Range
+  Project

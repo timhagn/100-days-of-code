@@ -400,3 +400,28 @@ some of @KhanAcademy's
 "Advanced JS: Natural Simulations"
 and reading more on #Python and
 => #Entrepreneurship
+
+
+
+### Day 41, July 24, Friday
+
+**Today's Progress**:
+Not much, just
+* started @freeCodeCamp Project
+  "Build a Pomodoro Clock"
+
+
+
+### Day 42, July 25, Wednesday
+
+**Today's Progress**:
+* still in @KhanAcademy's
+  "Advanced JS: Natural
+  Simulations" I tried to
+  improve my Mountain Range
+  Project with animated
+  Perlin Noise as sky % |.
+(not the Answer but still ; )
+▓▓▓▓▓░░░░░░ 42%
+
+1. [Mountain Range](https://tinyurl.com/ka-mr-pn)
