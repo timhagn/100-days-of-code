@@ -425,3 +425,16 @@ Not much, just
 ▓▓▓▓▓░░░░░░ 42%
 
 1. [Mountain Range](https://tinyurl.com/ka-mr-pn)
+
+
+
+### Day 43, July 26, Thursday
+
+**Today's Progress**:
+* starting short before midnight
+  (so to say still on D42 % )
+  I got back into @freeCodeCamp
+  by doing some Challenges from
+  their "Coding Interview Prep"
+* finished my @KhanAcademy's
+  Mountain Range Project

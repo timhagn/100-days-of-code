@@ -235,3 +235,12 @@ Not much, just
   Simulations" I tried to
   improve my Mountain Range
   Project
+
+### R1D43
+* starting short before midnight
+  (so to say still on D42 % )
+  I got back into @freeCodeCamp
+  by doing some Challenges from
+  their "Coding Interview Prep"
+* finished my @KhanAcademy's
+  Mountain Range Project 
