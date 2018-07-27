@@ -246,5 +246,11 @@ Not much, just
   Mountain Range Project
 
 ### R1D44
+* still in @KhanAcademy's
+  "Advanced JS:
+  Natural Simulations"
+  (Angular Movement)
 * back into the @freeCodeCamp's
-  "Build a Pomodoro Clock"
+  "Build a Pomodoro Clock", all
+  Buttons working in Theory,
+  next up is Styling & Timer ^^

@@ -441,10 +441,19 @@ Not much, just
 * finished my @KhanAcademy's
   Mountain Range Project
 
+  **Link(s) to work**    
+
+  1. [Mountain Range](https://tinyurl.com/ka-mr-pn)
 
 
 ### Day 44, July 27, Friday
 
 **Today's Progress**:
+* still in @KhanAcademy's
+  "Advanced JS:
+  Natural Simulations"
+  (Angular Movement)
 * back into the @freeCodeCamp's
-  "Build a Pomodoro Clock"
+  "Build a Pomodoro Clock", all
+  Buttons working in Theory,
+  next up is Styling & Timer ^^
