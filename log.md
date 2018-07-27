@@ -440,3 +440,11 @@ Not much, just
   their "Coding Interview Prep"
 * finished my @KhanAcademy's
   Mountain Range Project
+
+
+
+### Day 44, July 27, Friday
+
+**Today's Progress**:
+* back into the @freeCodeCamp's
+  "Build a Pomodoro Clock"

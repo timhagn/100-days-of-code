@@ -243,4 +243,8 @@ Not much, just
   by doing some Challenges from
   their "Coding Interview Prep"
 * finished my @KhanAcademy's
-  Mountain Range Project 
+  Mountain Range Project
+
+### R1D44
+* back into the @freeCodeCamp's
+  "Build a Pomodoro Clock"
