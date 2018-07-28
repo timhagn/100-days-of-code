@@ -254,3 +254,14 @@ Not much, just
   "Build a Pomodoro Clock", all
   Buttons working in Theory,
   next up is Styling & Timer ^^
+
+### R1D45
+* @freeCodeCamp's "Build a
+  Pomodoro Clock" still is
+  with me, didn't have much
+  time today, as after the
+  #BloodMoon, the sun was
+  calling me to the park ; )
+* there the first chapters of
+  @AustinKleon's "Show Your
+  Work!" bedazzled me ^^  
