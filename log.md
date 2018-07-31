@@ -483,8 +483,11 @@ Monday was D46 instead of D47:
 * nearly finished @freeCodeCamp's
   "Build a Pomodoro Clock", but
   some tests were failing -.-
+  (now running on D47 ; )
 
+**Link(s) to work**    
 
+1. [Pomodoro Clock](https://tinyurl.com/rr-pomo)
 
 ### Day 47, July 31, Tuesday
 
@@ -500,3 +503,4 @@ Finally - and still in July % )
 **Link(s) to work**    
 
 1. [Pomodoro Clock](https://tinyurl.com/rr-pomo)
+2. [Front End Libraries Certification](https://tinyurl.com/fcc-felc)

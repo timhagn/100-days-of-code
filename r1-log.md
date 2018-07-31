@@ -272,12 +272,13 @@ Monday was D46 instead of D47:
 * nearly finished @freeCodeCamp's
   "Build a Pomodoro Clock", but
   some tests were failing -.-
+  (now running on D47 ; )
 
 ### R1D47
-Finally : )
+Finally - and still in July % )
 * Finished @freeCodeCamp's
   "Build a Pomodoro Clock" with
   all tests passing, such being
   able to claim my
   Front End Libraries
-  Certification
+  Certification : )
