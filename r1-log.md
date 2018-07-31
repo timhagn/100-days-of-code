@@ -265,3 +265,19 @@ Not much, just
 * there the first chapters of
   @AustinKleon's "Show Your
   Work!" bedazzled me ^^  
+
+### R1D46
+After skipping a day on Sunday,
+Monday was D46 instead of D47:
+* nearly finished @freeCodeCamp's
+  "Build a Pomodoro Clock", but
+  some tests were failing -.-
+
+### R1D47
+Finally : )
+* Finished @freeCodeCamp's
+  "Build a Pomodoro Clock" with
+  all tests passing, such being
+  able to claim my
+  Front End Libraries
+  Certification

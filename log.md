@@ -441,9 +441,9 @@ Not much, just
 * finished my @KhanAcademy's
   Mountain Range Project
 
-  **Link(s) to work**    
+**Link(s) to work**    
 
-  1. [Mountain Range](https://tinyurl.com/ka-mr-pn)
+1. [Mountain Range](https://tinyurl.com/ka-mr-pn)
 
 
 ### Day 44, July 27, Friday
@@ -460,7 +460,7 @@ Not much, just
 
 
 
-### Day 44, July 27, Friday
+### Day 45, July 28, Saturday
 
 **Today's Progress**:
 * @freeCodeCamp's "Build a
@@ -472,3 +472,31 @@ Not much, just
 * there the first chapters of
   @AustinKleon's "Show Your
   Work!" bedazzled me ^^
+
+
+
+### Day 46, July 30, Monday
+
+**Today's Progress**:
+After skipping a day on Sunday,
+Monday was D46 instead of D47:
+* nearly finished @freeCodeCamp's
+  "Build a Pomodoro Clock", but
+  some tests were failing -.-
+
+
+
+### Day 47, July 31, Tuesday
+
+**Today's Progress**:
+Finally - and still in July % )
+* Finished @freeCodeCamp's
+  "Build a Pomodoro Clock" with
+  all tests passing, such being
+  able to claim my
+  Front End Libraries
+  Certification : )
+
+**Link(s) to work**    
+
+1. [Pomodoro Clock](https://tinyurl.com/rr-pomo)
