@@ -506,3 +506,18 @@ Finally - and still in July % )
 
 1. [Pomodoro Clock](https://tinyurl.com/rr-pomo)
 2. [Front End Libraries Certification](https://tinyurl.com/fcc-felc)
+
+
+
+### Day 48, August 1, Wednesday
+
+**Today's Progress**:
+* sped through @freeCodeCamp's
+  first three chapters of
+  "Responsive Web Design
+  Certification", Basic HTML(5),
+  Basic CSS and Applied Visual
+  Design in 74 min., as I'm
+  already working on my new
+  portfolio (home)page and
+  am interested in CSS-Grid ; )

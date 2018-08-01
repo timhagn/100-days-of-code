@@ -282,3 +282,14 @@ Finally - and still in July % )
   able to claim my
   Front End Libraries
   Certification : )
+
+### R1D48
+* sped through @freeCodeCamp's
+  first three chapters of
+  "Responsive Web Design
+  Certification", Basic HTML(5),
+  Basic CSS and Applied Visual
+  Design in 74 min., as I'm
+  already working on my new
+  portfolio (home)page and
+  am interested in CSS-Grid ; )
