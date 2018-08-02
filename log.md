@@ -521,3 +521,18 @@ Finally - and still in July % )
   already working on my new
   portfolio (home)page and
   am interested in CSS-Grid ; )
+
+
+
+### Day 49, August 2, Thursday
+
+**Today's Progress**:
+* today me took "slower" steps
+  and went through the next
+  three of @freeCodeCamp's
+  "Responsive Web Design
+  Certification" chapters.
+  Next: On to CSS-Grid!
+After all today is our 10th
+wedding anniversary, which
+of course computes first : )!
