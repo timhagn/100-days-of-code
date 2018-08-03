@@ -536,3 +536,21 @@ Finally - and still in July % )
 After all today is our 10th
 wedding anniversary, which
 of course computes first : )!
+
+
+
+### Day 50, August 3, Friday
+
+**Today's Progress**
+Today @freeCodeCamp's
+CSS-Grid section & project
+"Build a Tribute Page"
+- sad theme #TerryPratchett,
+but #makefrontendshitagain ; )
+I'll mostly read this weekend,
+traveling with "Connie",
+my T-101MT ^^.
+▓▓▓▓▓░░░░░ 50%
+
+**Link(s) to work**
+1. [Tribute Page](https://tinyurl.com/fcc-tribute)

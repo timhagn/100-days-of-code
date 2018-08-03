@@ -304,3 +304,14 @@ Finally - and still in July % )
 After all today is our 10th
 wedding anniversary, which
 of course computes first : )!
+
+### R1D50
+Today @freeCodeCamp's
+CSS-Grid section & project
+"Build a Tribute Page"
+- sad theme #TerryPratchett,
+but #makefrontendshitagain ; )
+I'll mostly read this weekend,
+traveling with "Connie",
+my T-101MT ^^.
+▓▓▓▓▓░░░░░ 50%
