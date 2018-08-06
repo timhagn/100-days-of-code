@@ -560,9 +560,20 @@ my T-101MT ^^.
 ### Day 51, August 4, Saturday & Day 52, August 5, Sunday
 
 **Today's Progress**
-As nearly foreseen, I only 
+As nearly foreseen, I only
 got to reading about different
 topics like Docker, redux-saga,
 Observables in JS and such % ).
 Back in the Game and on the
 Keyboard again today : ).
+
+
+
+### Day 53, August 6, Monday
+Yip, back in the game : )!
+* finished @freeCodeCamp's
+  Responsive Web Design
+  Project "Build a Survey Form"
+
+**Link(s) to work**
+1. [Survey Form](https://tinyurl.com/fcc-rsf)

@@ -323,3 +323,9 @@ topics like Docker, redux-saga,
 Observables in JS and such % ).
 Back in the Game and on the
 Keyboard again today : ).
+
+###R1D53
+Yip, back in the game : )!
+* finished @freeCodeCamp's
+  Responsive Web Design
+  Project "Build a Survey Form"
