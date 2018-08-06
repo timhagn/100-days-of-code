@@ -554,3 +554,15 @@ my T-101MT ^^.
 
 **Link(s) to work**
 1. [Tribute Page](https://tinyurl.com/fcc-tribute)
+
+
+
+### Day 51, August 4, Saturday & Day 52, August 5, Sunday
+
+**Today's Progress**
+As nearly foreseen, I only 
+got to reading about different
+topics like Docker, redux-saga,
+Observables in JS and such % ).
+Back in the Game and on the
+Keyboard again today : ).

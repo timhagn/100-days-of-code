@@ -315,3 +315,11 @@ I'll mostly read this weekend,
 traveling with "Connie",
 my T-101MT ^^.
 ▓▓▓▓▓░░░░░ 50%
+
+###R1D51 & R1D52
+As nearly foreseen, I only
+got to reading about different
+topics like Docker, redux-saga,
+Observables in JS and such % ).
+Back in the Game and on the
+Keyboard again today : ).
