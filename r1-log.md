@@ -329,3 +329,14 @@ Yip, back in the game : )!
 * finished @freeCodeCamp's
   Responsive Web Design
   Project "Build a Survey Form"
+
+###R1D54 - R1D55
+Felt a little under the weather
+(and wish it would rain % )
+the last days so didn't tweet,
+but still read more about #Python,
+ML & chatbots.
+Finished the first part "Data
+Visualization with D3"of
+@freeCodeCamp's "Data
+Visualization Certification".

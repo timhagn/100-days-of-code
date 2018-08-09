@@ -577,3 +577,18 @@ Yip, back in the game : )!
 
 **Link(s) to work**
 1. [Survey Form](https://tinyurl.com/fcc-rsf)
+
+
+
+### Day 54, August 7, Tuesday - R56, August 9, Thursday
+
+**Progress**
+Felt a little under the weather
+(and wish it would rain % )
+the last days so didn't tweet,
+but still read more about #Python,
+ML & chatbots.
+Finished the first part "Data
+Visualization with D3"of
+@freeCodeCamp's "Data
+Visualization Certification".
