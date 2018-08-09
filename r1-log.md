@@ -330,9 +330,9 @@ Yip, back in the game : )!
   Responsive Web Design
   Project "Build a Survey Form"
 
-###R1D54 - R1D55
+###R1D54 - R1D56
 Felt a little under the weather
-(and wish it would rain % )
+(and wished it would rain % )
 the last days so didn't tweet,
 but still read more about #Python,
 ML & chatbots.
