@@ -592,3 +592,29 @@ Finished the first part "Data
 Visualization with D3"of
 @freeCodeCamp's "Data
 Visualization Certification".
+
+
+
+### Day 57, August 10, Friday
+
+**Today's Progress**
+* finished the second part
+  "JSON APIs and Ajax"
+  of @freeCodeCamp's "Data
+  Visualization Certification"
+* started @freeCodeCamp Project
+  "Build a Product Landing Page"
+
+
+
+### Day 58, August 11, Saturday
+
+**Today's Progress**
+* pushed my @freeCodeCamp "Front End 
+  Libraries Certification" Projects
+  to @GitHub and mirrored them on
+  @Bitbucket, suit yourself ; ).
+
+**Link(s) to work**
+1. [Front End Libraries Certification Projects @ GitHub](https://github.com/timhagn/fcc-felc)
+2. [Front End Libraries Certification Projects @ Bitbucket](https://bitbucket.org/timhagn/fcc-felc)

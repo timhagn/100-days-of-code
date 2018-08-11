@@ -316,7 +316,7 @@ traveling with "Connie",
 my T-101MT ^^.
 ▓▓▓▓▓░░░░░ 50%
 
-###R1D51 & R1D52
+### R1D51 & R1D52
 As nearly foreseen, I only
 got to reading about different
 topics like Docker, redux-saga,
@@ -324,13 +324,13 @@ Observables in JS and such % ).
 Back in the Game and on the
 Keyboard again today : ).
 
-###R1D53
+### R1D53
 Yip, back in the game : )!
 * finished @freeCodeCamp's
   Responsive Web Design
   Project "Build a Survey Form"
 
-###R1D54 - R1D56
+### R1D54 - R1D56
 Felt a little under the weather
 (and wished it would rain % )
 the last days so didn't tweet,
@@ -340,3 +340,17 @@ Finished the first part "Data
 Visualization with D3"of
 @freeCodeCamp's "Data
 Visualization Certification".
+
+### R1D57
+* finished the second part
+  "JSON APIs and Ajax"
+  of @freeCodeCamp's "Data
+  Visualization Certification"
+* started @freeCodeCamp Project
+  "Build a Product Landing Page"
+
+### R1D58
+* pushed my @freeCodeCamp "Front End
+  Libraries Certification" Projects
+  to @GitHub and mirrored them on
+  @Bitbucket, suit yourself ; ).
