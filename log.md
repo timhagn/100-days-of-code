@@ -610,11 +610,14 @@ Visualization Certification".
 ### Day 58, August 11, Saturday
 
 **Today's Progress**
-* pushed my @freeCodeCamp "Front End 
+* pushed my @freeCodeCamp "Front End
   Libraries Certification" Projects
   to @GitHub and mirrored them on
   @Bitbucket, suit yourself ; ).
+* finished @freeCodeCamp
+  "Product Landing Page" Project  
 
 **Link(s) to work**
 1. [Front End Libraries Certification Projects @ GitHub](https://github.com/timhagn/fcc-felc)
 2. [Front End Libraries Certification Projects @ Bitbucket](https://bitbucket.org/timhagn/fcc-felc)
+3. [Product Landing Page](https://tinyurl.com/fcc-plp)
