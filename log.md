@@ -621,3 +621,13 @@ Visualization Certification".
 1. [Front End Libraries Certification Projects @ GitHub](https://github.com/timhagn/fcc-felc)
 2. [Front End Libraries Certification Projects @ Bitbucket](https://bitbucket.org/timhagn/fcc-felc)
 3. [Product Landing Page](https://tinyurl.com/fcc-plp)
+
+
+
+### Day 59, August 12, Sunday
+
+**Today's Progress**
+* added watch script to repos
+* started @freeCodeCamp Project
+  "D3 Bar Chart" from "Data
+  Visualization with D3"

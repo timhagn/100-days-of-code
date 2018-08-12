@@ -354,5 +354,11 @@ Visualization Certification".
   Libraries Certification" Projects
   to @GitHub and mirrored them on
   @Bitbucket, suit yourself ; ).
-* finished @freeCodeCamp 
+* finished @freeCodeCamp
   "Product Landing Page" Project
+
+### R1D59
+* added watch script to repos
+* started @freeCodeCamp Project
+  "D3 Bar Chart" from "Data
+  Visualization with D3"
