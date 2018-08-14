@@ -362,3 +362,14 @@ Visualization Certification".
 * started @freeCodeCamp Project
   "D3 Bar Chart" from "Data
   Visualization with D3"
+
+### R1D60
+Yesterday I needed a break,
+but still read about #Python,
+which seems to be my fallback
+"solution" when I have no energy % ).
+
+### R1D61
+* finished @freeCodeCamp Project
+  "D3 Bar Chart" from "Data
+  Visualization with D3"

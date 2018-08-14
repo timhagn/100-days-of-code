@@ -631,3 +631,25 @@ Visualization Certification".
 * started @freeCodeCamp Project
   "D3 Bar Chart" from "Data
   Visualization with D3"
+
+
+
+### Day 60, August 13, Monday
+
+**Today's Progress**
+Yesterday I needed a break,
+but still read about #Python,
+which seems to be my "fallback
+solution" when I have no energy % ).
+
+
+
+### Day 61, August 14, Tuesday
+
+**Today's Progress**
+* finished @freeCodeCamp Project
+  "D3 Bar Chart" from "Data
+  Visualization with D3"
+
+**Link(s) to work**
+1. [D3 Bar Chart](https://tinyurl.com/fcc-d3bc)
