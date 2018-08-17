@@ -373,3 +373,17 @@ which seems to be my fallback
 * finished @freeCodeCamp Project
   "D3 Bar Chart" from "Data
   Visualization with D3"
+
+### R1D62 & R1D63
+On Wednesday I only came to reading
+bout #Python again (after all it was
+a bank holiday here ; ).
+Yesterday I started the @freeCodeCamp
+Project "D3 Scatterplot Graph" from
+"Data Visualization with D3".
+
+### R1D64
+* continued working on the
+  @freeCodeCamp Project
+  "D3 Scatterplot Graph" from
+  "Data Visualization with D3".

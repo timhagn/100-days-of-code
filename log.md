@@ -641,6 +641,7 @@ Yesterday I needed a break,
 but still read about #Python,
 which seems to be my "fallback
 solution" when I have no energy % ).
+▓▓▓▓▓▓░░░░ 60%
 
 
 
@@ -653,3 +654,25 @@ solution" when I have no energy % ).
 
 **Link(s) to work**
 1. [D3 Bar Chart](https://tinyurl.com/fcc-d3bc)
+
+
+
+### Day 62, August 15, Wednesday & Day 63, August 15, Thursday
+
+**Progress**
+On Wednesday I only came to reading
+bout #Python again (after all it was
+a bank holiday here ; ).
+Yesterday I started the @freeCodeCamp
+Project "D3 Scatterplot Graph" from
+"Data Visualization with D3".
+
+
+
+### D64, August 16, Friday
+
+**Today's Progress**
+* continued working on the
+  @freeCodeCamp Project
+  "D3 Scatterplot Graph" from
+  "Data Visualization with D3".
