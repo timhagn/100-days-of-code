@@ -657,7 +657,7 @@ solution" when I have no energy % ).
 
 
 
-### Day 62, August 15, Wednesday & Day 63, August 15, Thursday
+### Day 62, August 15, Wednesday & Day 63, August 16, Thursday
 
 **Progress**
 On Wednesday I only came to reading
@@ -669,7 +669,7 @@ Project "D3 Scatterplot Graph" from
 
 
 
-### D64, August 16, Friday
+### D64, August 17, Friday
 
 **Today's Progress**
 * continued working on the
@@ -679,7 +679,7 @@ Project "D3 Scatterplot Graph" from
 
 
 
-### D65, August 17, Saturday & D66, August 19, Monday
+### D65, August 18, Saturday & D66, August 20, Monday
 
 **Today's Progress**
 
