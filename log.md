@@ -676,3 +676,19 @@ Project "D3 Scatterplot Graph" from
   @freeCodeCamp Project
   "D3 Scatterplot Graph" from
   "Data Visualization with D3".
+
+
+
+### D65, August 17, Saturday & D66, August 19, Monday
+
+**Today's Progress**
+
+After being under the weather,
+I only came to some reading
+about #Python and #reactjs on
+Saturday and took the day off
+on Sunday. Today I at least
+continued working on the
+@freeCodeCamp Project
+"D3 Scatterplot Graph" from
+"Data Visualization with D3".
