@@ -669,7 +669,7 @@ Project "D3 Scatterplot Graph" from
 
 
 
-### D64, August 17, Friday
+### Day 64, August 17, Friday
 
 **Today's Progress**
 * continued working on the
@@ -679,7 +679,7 @@ Project "D3 Scatterplot Graph" from
 
 
 
-### D65, August 18, Saturday & D66, August 20, Monday
+### Day 65, August 18, Saturday & Day 66, August 20, Monday
 
 **Today's Progress**
 
@@ -692,3 +692,18 @@ continued working on the
 @freeCodeCamp Project
 "D3 Scatterplot Graph" from
 "Data Visualization with D3".
+
+
+
+### Day 67, August 21, Tuesday
+
+**Today's Progress**
+Feeling slightly better, so
+* finally finished @freeCodeCamp
+  Project "D3 Scatterplot Graph"
+  from "Data Visualization with D3"
+  and so solved their
+  #ProjectOfTheDay : )
+
+**Link(s) to work**
+1. [D3 Scatterplot Graph](https://tinyurl.com/fcc-d3sp)

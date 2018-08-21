@@ -398,3 +398,11 @@ continued working on the
 @freeCodeCamp Project
 "D3 Scatterplot Graph" from
 "Data Visualization with D3".
+
+### R1D67
+Feeling slightly better, so
+* finally finished @freeCodeCamp
+  Project "D3 Scatterplot Graph"
+  from "Data Visualization with D3"
+  and so solved their
+  #ProjectOfTheDay : )
