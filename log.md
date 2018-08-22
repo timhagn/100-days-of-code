@@ -707,3 +707,23 @@ Feeling slightly better, so
 
 **Link(s) to work**
 1. [D3 Scatterplot Graph](https://tinyurl.com/fcc-d3sp)
+
+
+
+### Day 68, August 22, Wednesday
+
+**Today's Progress**
+* created repos for the Project of
+  @freeCodeCamp's Certifications
+  "Responsive Web Design" &
+  "Data Visualization with D3"
+  and mirrored them on BitBucket
+* started @freeCodeCamp "Front End
+  Libraries Certification" Project
+  "Technical Documentation Page"  
+
+**Link(s) to work**
+1. [Responsive Web Design Projects @ GitHub](https://github.com/timhagn/fcc-rwdp)
+2. [Responsive Web Design Projects @ BitBucket](https://bitbucket.org/timhagn/fcc-rwdp)
+3. [Data Visualization Projects @ GitHub](https://github.com/timhagn/fcc-dvp)
+4. [Data Visualization Projects @ BitBucket](https://bitbucket.org/timhagn/fcc-dvp)

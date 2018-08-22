@@ -406,3 +406,13 @@ Feeling slightly better, so
   from "Data Visualization with D3"
   and so solved their
   #ProjectOfTheDay : )
+
+### R1D68
+* created repos for the Project of
+  @freeCodeCamp's Certifications
+  "Responsive Web Design" &
+  "Data Visualization with D3"
+  and mirrored them on BitBucket
+* started @freeCodeCamp "Front End
+  Libraries Certification" Project
+  "Technical Documentation Page"
