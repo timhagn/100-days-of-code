@@ -416,3 +416,14 @@ Feeling slightly better, so
 * started @freeCodeCamp "Front End
   Libraries Certification" Project
   "Technical Documentation Page"
+
+### R1D69
+* did a lot of reading, but not
+  as fallback, but by intention ^^.
+  Doing #JS vs. #PHP vs. #Python
+  for my @freeCodeCamp "Front End
+  Libraries Certification" Project
+  "Technical Documentation Page"
+  Do you know, what ?...$val means
+  in #PHP? Read about it in my
+  Project (to become Blog-Post ; ).

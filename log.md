@@ -727,3 +727,19 @@ Feeling slightly better, so
 2. [Responsive Web Design Projects @ BitBucket](https://bitbucket.org/timhagn/fcc-rwdp)
 3. [Data Visualization Projects @ GitHub](https://github.com/timhagn/fcc-dvp)
 4. [Data Visualization Projects @ BitBucket](https://bitbucket.org/timhagn/fcc-dvp)
+
+
+
+
+### Day 69, August 23, Thursday
+
+**Today's Progress**
+* did a lot of reading, but not 
+  as fallback, but by intention ^^.
+  Doing #JS vs. #PHP vs. #Python
+  for my @freeCodeCamp "Front End
+  Libraries Certification" Project
+  "Technical Documentation Page"
+  Do you know, what ?...$val means
+  in #PHP? Read about it in my
+  Project (to become Blog-Post ; ).
