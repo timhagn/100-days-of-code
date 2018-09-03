@@ -718,8 +718,8 @@ Feeling slightly better, so
   "Responsive Web Design" &
   "Data Visualization with D3"
   and mirrored them on BitBucket
-* started @freeCodeCamp "Front End
-  Libraries Certification" Project
+* started @freeCodeCamp "Responsive Web Design
+  Certification" Project
   "Technical Documentation Page"  
 
 **Link(s) to work**
@@ -730,16 +730,54 @@ Feeling slightly better, so
 
 
 
-
 ### Day 69, August 23, Thursday
 
 **Today's Progress**
-* did a lot of reading, but not 
+* did a lot of reading, but not
   as fallback, but by intention ^^.
   Doing #JS vs. #PHP vs. #Python
-  for my @freeCodeCamp "Front End
-  Libraries Certification" Project
+  for my @freeCodeCamp "Responsive
+  Web Design Certification" Project
   "Technical Documentation Page"
   Do you know, what ?...$val means
   in #PHP? Read about it in my
   Project (to become Blog-Post ; ).
+
+
+
+### Day 70, August 31, Friday
+
+**Today's Progress**
+After @ka11ways talk at #byteconf,
+I'm gonna heed his words and
+won't reset the challenge,
+but try to get back on track
+on Monday (at the latest ; ).
+Today I only stayed tuned in
+on @byteconf and definitely
+catch up their other talks
+on YouTube!
+
+
+
+### Day 71, September 3, Monday
+
+**Today's Progress**
+As promised I returned to the
+challenge and continued working
+on my @freeCodeCamp
+"Responsive Web Design
+Certification" Project
+"Technical Documentation Page"
+but it's rather turning into a
+full scale blog post ^^. 1/2
+
+2/2 All while trying an
+update to Mint 19 on my
+Dev-@TUXEDOComputers
+Laptop, with a first for me:
+the Ethernet Card won't work,
+while WiFi worked out
+of the box % ).
+(Probs with an RT8111/8168,
+but I'm gonna get it running! ; )

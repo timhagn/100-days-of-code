@@ -427,3 +427,34 @@ Feeling slightly better, so
   Do you know, what ?...$val means
   in #PHP? Read about it in my
   Project (to become Blog-Post ; ).
+
+### R1D70
+After @ka11ways talk at #byteconf,
+I'm gonna heed his words and
+won't reset the challenge,
+but try to get back on track
+on Monday (at the latest ; ).
+Today I only stayed tuned in
+on @byteconf and definitely
+catch up their other talks
+on YouTube!
+
+### R1D71
+As promised I returned to the
+challenge and continued working
+on my @freeCodeCamp
+"Responsive Web Design
+Certification" Project
+"Technical Documentation Page"
+but it's rather turning into a
+full scale blog post ^^. 1/2
+
+2/2 All while trying an
+update to Mint 19 on my
+Dev-@TUXEDOComputers
+Laptop, with a first for me:
+the Ethernet Card won't work,
+while WiFi worked out
+of the box % ).
+(Probs with an RT8111/8168,
+but I'm gonna get it running! ; )
