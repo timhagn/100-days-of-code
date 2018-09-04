@@ -781,3 +781,36 @@ while WiFi worked out
 of the box % ).
 (Probs with an RT8111/8168,
 but I'm gonna get it running! ; )
+
+
+
+### Day 72 (part 1), September 4, Tuesday
+
+**Today's Progress**
+After fixing the Problems
+with the RT8111/8168 (see
+R1/D71) in Mint 19, I dived
+into the intestines of
+systemd-resolved.
+Hoped to get it running
+with my old local .test
+confs for nginx and
+uWSGI #Python, but had to
+disable it % |.
+Now some coding ^^.
+
+
+
+### Day 72 (part 2), September 4, Tuesday
+
+**Today's Progress**
+Finally coding, I continued
+working on my @freeCodeCamp
+"Responsive Web Design
+Certification" Project
+"Technical Documentation Page".
+Implemented the start of
+a Pure-CSS Burger-Menu,
+using :target Pseudo-Element
+and added line numbering to
+code elements.
