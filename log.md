@@ -823,5 +823,10 @@ code elements.
 * "Finished" the Pure-CSS
   Burger-Menu via :target
   (have to tweak anims ; )
+  Added PHP variables and
+  tests are now all passing
+  for the @freeCodeCamp
+  Project "Technical
+  Documentation Page".
 * Finally came to watching
   more of @byteconf on YT.
