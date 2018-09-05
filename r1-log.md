@@ -483,3 +483,10 @@ a Pure-CSS Burger-Menu,
 using :target Pseudo-Element
 and added line numbering to
 code elements.
+
+### R1D73
+* "Finished" the Pure-CSS
+  Burger-Menu via :target
+  (have to tweak anims ; )
+* Finally came to watching
+  more of @byteconf on YT.

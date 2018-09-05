@@ -814,3 +814,14 @@ a Pure-CSS Burger-Menu,
 using :target Pseudo-Element
 and added line numbering to
 code elements.
+
+
+
+### Day 73, September 5, Wednesday
+
+**Today's Progress**
+* "Finished" the Pure-CSS
+  Burger-Menu via :target
+  (have to tweak anims ; )
+* Finally came to watching
+  more of @byteconf on YT.
