@@ -830,3 +830,24 @@ code elements.
   Documentation Page".
 * Finally came to watching
   more of @byteconf on YT.
+
+**Link(s) to work**
+1. [Responsive Web Design Projects @ GitHub](https://tinyurl.com/fcc-tdp)
+
+
+
+### Day 74, September 6, Thursday
+
+**Today's Progress**
+Been a while for me
+writing bash scripts,
+so wrote one to ease
+backing up client's server
+and local Dev instances.
+Continued @freeCodeCamp
+Project "Technical
+Documentation Page"
+It's now nearly as long
+as their example, and
+now just covers vars
+and types...

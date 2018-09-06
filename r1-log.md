@@ -495,3 +495,18 @@ code elements.
   Documentation Page".
 * Finally came to watching
   more of @byteconf on YT.
+// Left Testing Big with BigTest in React 11:49
+
+### R1D74
+Been a while for me
+writing bash scripts,
+so wrote one to ease
+backing up client's server
+and local Dev instances.
+Continued @freeCodeCamp
+Project "Technical
+Documentation Page"
+It's now nearly as long
+as their example, and
+now just covers vars
+and types...
