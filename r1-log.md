@@ -510,3 +510,12 @@ It's now nearly as long
 as their example, and
 now just covers vars
 and types...
+
+### R1D75
+Still continuing with my
+@freeCodeCamp Project
+"Technical Documentation Page"
+and now threw #Python in
+the variable comparison
+and enhanced some examples.
+▓▓▓▓▓▓▓▓░░░ 75%

@@ -851,3 +851,14 @@ It's now nearly as long
 as their example, and
 now just covers vars
 and types...
+
+### Day 75, September 7, Friday
+
+**Today's Progress**
+Still continuing with my
+@freeCodeCamp Project
+"Technical Documentation Page"
+and now threw #Python in
+the variable comparison part
+and enhanced some examples.
+▓▓▓▓▓▓▓▓░░░ 75%
