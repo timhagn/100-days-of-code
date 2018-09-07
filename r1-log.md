@@ -516,6 +516,8 @@ Still continuing with my
 @freeCodeCamp Project
 "Technical Documentation Page"
 and now threw #Python in
-the variable comparison
+the variable comparison part
 and enhanced some examples.
+But take a sneak peek below : ).
+25 days left to go!
 ▓▓▓▓▓▓▓▓░░░ 75%

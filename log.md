@@ -388,6 +388,8 @@ Just a few hours I
   Simulations" the Force(s)
   was(were) with me ; )
 
+  **Image(s) to Work**
+  1. [May the Source be with You](imgs/star_wars_source.gif)
 
 
 ### Day 38, July 20, Saturday - Day 40, July 23, Monday
@@ -605,6 +607,9 @@ Visualization Certification".
 * started @freeCodeCamp Project
   "Build a Product Landing Page"
 
+**Image(s) to Work**
+1. [Nada Corp.](imgs/nada.jpg)
+
 
 
 ### Day 58, August 11, Saturday
@@ -815,6 +820,8 @@ using :target Pseudo-Element
 and added line numbering to
 code elements.
 
+**Image(s) to Work**
+1. [Pure-CSS Burger-Menu](imgs/burger-doc-idea.jpg)
 
 
 ### Day 73, September 5, Wednesday
@@ -861,4 +868,9 @@ Still continuing with my
 and now threw #Python in
 the variable comparison part
 and enhanced some examples.
+But take a sneak peek below : ).
+25 days left to go!
 ▓▓▓▓▓▓▓▓░░░ 75%
+
+**Image(s) to Work**
+1. [Technical Documentation Page](imgs/tdp.jpg)
