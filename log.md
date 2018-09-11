@@ -859,6 +859,8 @@ as their example, and
 now just covers vars
 and types...
 
+
+
 ### Day 75, September 7, Friday
 
 **Today's Progress**
@@ -874,3 +876,34 @@ But take a sneak peek below : ).
 
 **Image(s) to Work**
 1. [Technical Documentation Page](imgs/tdp.jpg)
+
+
+
+### Day 76, September 8, Saturday
+Speaking with @MBrazeilles
+from @mjmlio (kudos again ; )
+spurred my ambition and
+I looked into their App and
+MJML 4.
+Found a quirk with Migrating
+my signature from V3 but will
+try to solve it myself
+before opening an issue
+(might by my machine : ).
+
+
+
+### Day 77, September 10, Monday + Day 78, September 11, Tuesday
+
+**Progress**
+Took a day off on Sunday, as
+we were at @BuskersWien
+Street Art Festival and got
+into the After Party % ).
+So yesterday dived into
+mjmlio-app's migrate code and
+read some info about finite
+state machines in #reactjs.
+
+**Link(s) to reading**
+1. [Finite State Machines in React](https://tinyurl.com/fstater)

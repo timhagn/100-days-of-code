@@ -521,3 +521,25 @@ and enhanced some examples.
 But take a sneak peek below : ).
 25 days left to go!
 ▓▓▓▓▓▓▓▓░░░ 75%
+
+### R1D76
+Speaking with @MBrazeilles
+from @mjmlio (kudos again ; )
+spurred my ambition and
+I looked into their App and
+MJML 4.
+Found a quirk with Migrating
+my signature from V3 but will
+try to solve it myself
+before opening an issue
+(might be my machine : ).
+
+### R1D77 + R1D78
+Took a day off on Sunday, as
+we were at @BuskersWien
+Street Art Festival and got
+into the After Party % ).
+So yesterday dived into
+mjmlio-app's migrate code and
+read some info about finite
+state machines in #reactjs.
