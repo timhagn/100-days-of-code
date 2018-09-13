@@ -548,12 +548,9 @@ state machines in #reactjs.
 Looked further into the code
 of mjml and IntelliJ Idea
 nearly crashed while indexing,
-after installation
-of that many (recursive)
-node_modules with "yarn"
-within the packages folder ^^.
-Problem solved, no worries,
-but might look further into
-VS Code nevertheless...
+after installation of that many
+(recursive) node_modules with
+"yarn" within the packages folder ^^.
+Problem solved, no worries...
 
 ### R1D80
