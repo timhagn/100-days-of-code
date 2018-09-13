@@ -554,3 +554,14 @@ after installation of that many
 Problem solved, no worries...
 
 ### R1D80
+After getting NodeJS debugging
+running in Idea, I looked into
+my mjml problem.
+Switched to and fro
+my @freeCodeCamp
+"Tech Doc Page".
+▓▓▓▓▓▓▓▓░░ 80%
+Oh, and:
+Happy #InternationalProgrammersDay!
+But my wife put it way better:
+https://twitter.com/ninahagn/status/1040272691444547584
