@@ -907,3 +907,19 @@ state machines in #reactjs.
 
 **Link(s) to reading**
 1. [Finite State Machines in React](https://tinyurl.com/fstater)
+
+
+
+### Day 79, September 12, Wednesday
+
+**Today's Progress**
+Looked further into the code
+of mjml and IntelliJ Idea
+nearly crashed while indexing,
+after installation
+of that many (recursive)
+node_modules with "yarn"
+within the packages folder ^^.
+Problem solved, no worries,
+but might look further into
+VS Code nevertheless...
