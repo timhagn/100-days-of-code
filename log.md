@@ -937,3 +937,18 @@ Oh, and:
 Happy #InternationalProgrammersDay!
 But my wife put it way better:
 https://twitter.com/ninahagn/status/1040272691444547584
+
+### Day 81, September 14, Friday
+My MJML-debugging was "useless",
+migrate-probs arose through
+html-comments...
+More of @freeCodeCamp
+"Tech Doc Page", feels
+like I'm writing a book ; ).
+And I found a "gem" of my
+#Pascal days from the 90's,
+will try pushing it to a repo
+on the weekend % ).
+Oh, and I watched more of @byteconf,
+only one vid left to go...
+And of course @NikkitaFTW's vid : ).

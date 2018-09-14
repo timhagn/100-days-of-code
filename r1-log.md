@@ -565,3 +565,8 @@ Oh, and:
 Happy #InternationalProgrammersDay!
 But my wife put it way better:
 https://twitter.com/ninahagn/status/1040272691444547584
+
+### R1D81
+MJML => comment probs
+RWDP => Numbers
+byteconf, one more to go.
