@@ -952,3 +952,22 @@ on the weekend % ).
 Oh, and I watched more of @byteconf,
 only one vid left to go...
 And of course @NikkitaFTW's vid : ).
+
+### Day 82, September 15, Saturday
+Went down memory lane today,
+found my old Turbo Pascal 6.0
+and installed it in DosBox
+- only to sadly realize,
+some TPUs (precompiled TP
+Units, today might be
+classes ; ) for the game
+I wrote are missing : (.
+Trying to find them online,
+but to no avail...
+
+Oh, maybe they are missing because
+I now have 404 followers *lol*?
+Thnx to all of you anyways : )!
+
+**Image(s) to Work**
+1. [Turbo Pascal Books](imgs/tp-books.jpg)

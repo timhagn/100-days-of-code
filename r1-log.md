@@ -567,6 +567,32 @@ But my wife put it way better:
 https://twitter.com/ninahagn/status/1040272691444547584
 
 ### R1D81
-MJML => comment probs
-RWDP => Numbers
-byteconf, one more to go.
+My MJML-debugging was "useless",
+migrate-probs arose through
+html-comments...
+More of @freeCodeCamp
+"Tech Doc Page", feels
+like I'm writing a book ; ).
+And I found a "gem" of my
+#Pascal days from the 90's,
+will try pushing it to a repo
+on the weekend % ).
+Oh, and I watched more of @byteconf,
+only one vid left to go...
+And of course @NikkitaFTW's vid : ).
+
+### R1D82
+Went down memory lane today,
+found my old Turbo Pascal 6.0
+and installed it in DosBox
+- only to sadly realize,
+some TPUs (precompiled TP
+Units, today might be
+classes ; ) for the game
+I wrote are missing : (.
+Trying to find them online,
+but to no avail...
+
+Oh, maybe they are missing because
+I now have 404 followers *lol*?
+Thnx to all of you anyways : )!
