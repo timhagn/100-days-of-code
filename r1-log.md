@@ -596,3 +596,14 @@ but to no avail...
 Oh, maybe they are missing because
 I now have 404 followers *lol*?
 Thnx to all of you anyways : )!
+
+### R1D83
+Still recuperating from landing
+at a Party in a squatted house
+nearby together and returning
+home Sunday after sunrise.
+Only managed research for
+the Book I got the TPUs from
+and finally found it:
+PC Underground of Publisher
+Data Becker (R.I.P ; )

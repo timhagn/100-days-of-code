@@ -971,3 +971,17 @@ Thnx to all of you anyways : )!
 
 **Image(s) to Work**
 1. [Turbo Pascal Books](imgs/tp-books.jpg)
+
+### Day 83, September 16+17, Sunday & Monday
+Still recuperating from landing
+at a Party in a squatted house
+nearby together and returning
+home Sunday after sunrise.
+Only managed research for
+the Book I got the TPUs from
+and finally found it:
+PC Underground of Publisher
+Data Becker (R.I.P ; )
+
+**Image(s) to Work**
+1. [PC Underground](imgs/pc-underground.jpg)
