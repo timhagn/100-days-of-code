@@ -1002,6 +1002,7 @@ Data Becker (R.I.P ; )
 
 ### Day 84, September 18, Tuesday
 
+**Today's Progress**
 Found attached English
 CD-ROM to the #Pascal & #TASM
 book online & started tinkering
@@ -1009,6 +1010,12 @@ to get it to compile in TP6...
 But read for yourself in the repos
 to the game with a little history
 sprinkled on top : ).
+
+**Today's Progress (addendum)**
+Started @freeCodeCamp's "Apis And
+Microservices Certification",
+finished "Managing Packages with
+npm Challenges".
 
 **Link(s) to work**
 1. [Nostrum Paddle Wars @ GitHub](https://github.com/timhagn/npadwar)

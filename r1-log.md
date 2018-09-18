@@ -616,3 +616,9 @@ to get it to compile in TP6...
 But read for yourself in the repos
 to the game with a little history
 sprinkled on top : ).
+
+### R1D84 (addendum)
+Started @freeCodeCamp's "Apis And
+Microservices Certification",
+finished "Managing Packages with
+npm Challenges".
