@@ -938,7 +938,11 @@ Happy #InternationalProgrammersDay!
 But my wife put it way better:
 https://twitter.com/ninahagn/status/1040272691444547584
 
+
+
 ### Day 81, September 14, Friday
+
+**Today's Progress**
 My MJML-debugging was "useless",
 migrate-probs arose through
 html-comments...
@@ -953,7 +957,11 @@ Oh, and I watched more of @byteconf,
 only one vid left to go...
 And of course @NikkitaFTW's vid : ).
 
+
+
 ### Day 82, September 15, Saturday
+
+**Today's Progress**
 Went down memory lane today,
 found my old Turbo Pascal 6.0
 and installed it in DosBox
@@ -972,7 +980,11 @@ Thnx to all of you anyways : )!
 **Image(s) to Work**
 1. [Turbo Pascal Books](imgs/tp-books.jpg)
 
+
+
 ### Day 83, September 16+17, Sunday & Monday
+
+**Today's Progress**
 Still recuperating from landing
 at a Party in a squatted house
 nearby together and returning
@@ -985,3 +997,19 @@ Data Becker (R.I.P ; )
 
 **Image(s) to Work**
 1. [PC Underground](imgs/pc-underground.jpg)
+
+
+
+### Day 84, September 18, Tuesday
+
+Found attached English
+CD-ROM to the #Pascal & #TASM
+book online & started tinkering
+to get it to compile in TP6...
+But read for yourself in the repos
+to the game with a little history
+sprinkled on top : ).
+
+**Link(s) to work**
+1. [Nostrum Paddle Wars @ GitHub](https://github.com/timhagn/npadwar)
+1. [Nostrum Paddle Wars @ BitBucket](https://bitbucket.org/timhagn/npadwar/)

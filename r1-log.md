@@ -607,3 +607,12 @@ the Book I got the TPUs from
 and finally found it:
 PC Underground of Publisher
 Data Becker (R.I.P ; )
+
+### R1D84
+Found attached English
+CD-ROM to the #Pascal & #TASM
+book online & started tinkering
+to get it to compile in TP6...
+But read for yourself in the repos
+to the game with a little history
+sprinkled on top : ).
