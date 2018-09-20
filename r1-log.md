@@ -622,3 +622,21 @@ Started @freeCodeCamp's "Apis And
 Microservices Certification",
 finished "Managing Packages with
 npm Challenges".
+
+### R1D85
+Continued my @freeCodeCamp
+"Tech Doc Page", started their
+"Apis And Microservices
+Certification" finishing
+"Managing Packages with
+npm Challenges" and starting
+"Basic Node and Express
+Challenges"- to clear my
+head of #Pascal ; ).
+▓▓▓▓▓▓▓▓▓░░ 85%
+
+### R1D86
+Started and finished "Basic
+Node and Express Challenges"
+of @freeCodeCamp's "Apis And
+Microservices Certification".

@@ -1020,3 +1020,29 @@ npm Challenges".
 **Link(s) to work**
 1. [Nostrum Paddle Wars @ GitHub](https://github.com/timhagn/npadwar)
 1. [Nostrum Paddle Wars @ BitBucket](https://bitbucket.org/timhagn/npadwar/)
+
+
+
+### Day 85, September 19, Wednesday
+
+**Today's Progress**
+Continued my @freeCodeCamp
+"Tech Doc Page", started their
+"Apis And Microservices
+Certification" finishing
+"Managing Packages with
+npm Challenges" and starting
+"Basic Node and Express
+Challenges"- to clear my
+head of #Pascal ; ).
+▓▓▓▓▓▓▓▓▓░░ 85%
+
+
+
+### Day 86, September 20, Thursday
+
+**Today's Progress**
+Started and finished "Basic
+Node and Express Challenges"
+of @freeCodeCamp's "Apis And
+Microservices Certification".
