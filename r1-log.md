@@ -663,7 +663,6 @@ for my new Profile / Homepage?
 20% Try Flask / Django \*  
 70% node.js (GatsbyJS? \*)
 
-
 ### R1D87 (split)
 As on the weekend I only
 researched bout @gatsbyjs
@@ -674,3 +673,19 @@ But we bought & solved two
 puzzle-cubes from the
 "Museum of Illusions" - does
 that count as "hardcoding" ; )?
+
+### R1D88
+Tinkered with @gatsbyjs  
+& played around with
+styled-components and such.
+Got a little bugged by
+my current hosting
+not providing #NodeJS...
+
+Finished @freeCodeCamp's
+Timestamp Microservice Project
+as a cooldown... % )
+
+Why do you want both a #github
+repo and #glitch link _both_ to be
+able to complete the Project oO?

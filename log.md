@@ -1019,7 +1019,7 @@ npm Challenges".
 
 **Link(s) to work**
 1. [Nostrum Paddle Wars @ GitHub](https://github.com/timhagn/npadwar)
-1. [Nostrum Paddle Wars @ BitBucket](https://bitbucket.org/timhagn/npadwar/)
+2. [Nostrum Paddle Wars @ BitBucket](https://bitbucket.org/timhagn/npadwar/)
 
 
 
@@ -1086,7 +1086,7 @@ count it as one day.
 But we bought & solved two
 puzzle-cubes from the
 "Museum of Illusions" - does
-that count as hardcoding ; )?
+that count as "hardcoding" ; )?
 
 **Image(s) to "Work"**
 1. [Museum of Illusions - Cubes'n'Shirts](imgs/museum-cubes-n-shirts.jpg)
@@ -1097,3 +1097,27 @@ Should you have some spare time
 when in Vienna, be sure to give it   
 a visit : )!  
 [Museum of Illusions](https://museumderillusionen.at/en/)
+
+
+
+### Day 88, September 24, Monday
+
+**Today's Progress**
+Tinkered with @gatsbyjs  
+& played around with
+styled-components and such.
+Got a little bugged by
+my current hosting
+not providing #NodeJS...
+
+Finished @freeCodeCamp's
+Timestamp Microservice Project
+as a cooldown... % )
+
+Why do you want both a #github
+repo and #glitch link _both_ to be
+able to complete the Project oO?
+
+**Link(s) to work**
+1. [Timestamp Microservice Project @ GitHub](https://github.com/timhagn/th-fcc-timeserve/)
+2. [Timestamp Microservice Project @ Glitch](https://th-fcc-timeserve.glitch.me/)
