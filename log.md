@@ -1042,7 +1042,58 @@ head of #Pascal ; ).
 ### Day 86, September 20, Thursday
 
 **Today's Progress**
-Started and finished "Basic
-Node and Express Challenges"
-of @freeCodeCamp's "Apis And
-Microservices Certification".
+Started'n'finished "Node and
+Express" of "Apis And
+Microservices" Cert.
+But @glitch just doesn't fit
+my usual @nodejs workflow...
+Afterwards productive meeting
+with my designer-wife @ninahagn;
+talked and decided about my new
+Profile-/Homepage design.
+
+
+
+### Day --, September 21, Friday
+
+**Today's Non-Progress**  
+Didn't code today, was out last night till 4am % ).  
+But I've an important question for you,  
+please vote & RT  
+(Leave a comment for other ideas.  
+Frontend will be #reactjs : )!
+
+Which Backend should I use  
+for my new Profile / Homepage?   
+(\* is new for me)   
+
+10 Votes:  
+00% Stick with Drupal  
+10% WordPress (don't like ; )  
+20% Try Flask / Django \*  
+70% node.js (GatsbyJS? \*)
+
+
+
+### Day 87, September 22, Saturday & September 23, Sunday
+
+**Two days' Progress**
+As on the weekend I only
+researched bout @gatsbyjs
+& #VPS vs. #PaaS for #NodeJS
+hosting, I'm only gonna
+count it as one day.
+But we bought & solved two
+puzzle-cubes from the
+"Museum of Illusions" - does
+that count as hardcoding ; )?
+
+**Image(s) to "Work"**
+1. [Museum of Illusions - Cubes'n'Shirts](imgs/museum-cubes-n-shirts.jpg)
+2. [Museum of Illusions - Museum sigoggled us](imgs/museum-sigoggled-us.jpg)
+
+**Added Tweet**  
+Should you have some spare time   
+when in Vienna, be sure to give it   
+a visit : )!  
+[Museum of Illusions](https://museumderillusionen.at/en/)
