@@ -689,3 +689,14 @@ as a cooldown... % )
 Why do you want both a #github
 repo and #glitch link _both_ to be
 able to complete the Project oO?
+
+### R1D89
+Couldn't code much today,
+as a fruitful meeting with
+my Designer-Wife @ninahagn
+took place : ).
+Then we resealed our windows,
+temps are dropping -.-
+But I at least finished
+@freeCodeCamp's Header Parser
+Microservice Project ; ).

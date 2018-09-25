@@ -1121,3 +1121,22 @@ able to complete the Project oO?
 **Link(s) to work**
 1. [Timestamp Microservice Project @ GitHub](https://github.com/timhagn/th-fcc-timeserve/)
 2. [Timestamp Microservice Project @ Glitch](https://th-fcc-timeserve.glitch.me/)
+
+
+
+### Day 89, September 25, Tuesday
+
+**Today's Progress**
+Couldn't code much today,
+as a fruitful meeting with
+my Designer-Wife @ninahagn
+took place : ).
+Then we resealed our windows,
+temps are dropping -.-
+But I at least finished
+@freeCodeCamp's Header Parser
+Microservice Project ; ).
+
+**Link(s) to work**
+1. [Header Parser Microservice Project @ GitHub](https://github.com/timhagn/th-fcc-headerparser/)
+2. [Header Parser Microservice Project @ Glitch](https://th-fcc-headerparser.glitch.me/)
