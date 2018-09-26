@@ -1140,3 +1140,23 @@ Microservice Project ; ).
 **Link(s) to work**
 1. [Header Parser Microservice Project @ GitHub](https://github.com/timhagn/th-fcc-headerparser/)
 2. [Header Parser Microservice Project @ Glitch](https://th-fcc-headerparser.glitch.me/)
+
+
+
+### Day 90, September 25, Wednesday
+
+**Today's Progress**
+Went through the @freeCodeCamp
+MongoDB and Mongoose Challenges,
+but if I hadn't known #MongoDB
+before, I might have been stumped.
+Maybe should finally contribute % ).
+Finished the URL Shortener
+Microservice Project afterwards : ).
+
+I used my URL shortener for the above link, but twitter linked through % ). Link on Glitch: https://th-fcc-su.glitch.me/  And I forgot to add: ▓▓▓▓▓▓▓▓▓░ 90%
+
+**Link(s) to work**
+1. [URL Shortener Microservice Project @ GitHub](https://github.com/timhagn/th-fcc-shorturl/)
+2. [URL Shortener Microservice Project @ "Shortener"](https://th-fcc-su.glitch.me/api/shorturl/2)
+3. [URL Shortener Microservice Project @ Glitch](https://th-fcc-su.glitch.me/)

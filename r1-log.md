@@ -700,3 +700,12 @@ temps are dropping -.-
 But I at least finished
 @freeCodeCamp's Header Parser
 Microservice Project ; ).
+
+### R1D90
+Went through the @freeCodeCamp
+MongoDB and Mongoose Challenges,
+but if I hadn't known #MongoDB
+before, I might have been stumped.
+Maybe should finally contribute % ).
+Finished the URL Shortener
+Microservice Project afterwards : ).
