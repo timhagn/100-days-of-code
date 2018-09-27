@@ -709,3 +709,19 @@ before, I might have been stumped.
 Maybe should finally contribute % ).
 Finished the URL Shortener
 Microservice Project afterwards : ).
+
+I used my URL shortener for the above link, but twitter linked through % ). Link on Glitch: https://th-fcc-su.glitch.me/  And I forgot to add: ▓▓▓▓▓▓▓▓▓░ 90%
+
+### R1D91
+Finished @freeCodeCamp's
+Exercise Tracker Microservice
+Project after failing to get
+razzle running on @glitch,
+then stumbling over CRA
+on it (kudos!) and playing
+around with GatsbyJS on
+@codesandboxapp : ).
+
+And here it is on glitch: https://th-fcc-exercise.glitch.me/
+Did I say, that I like async ... await functions?
+I like async ... await functions ^^.

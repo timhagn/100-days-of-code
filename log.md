@@ -1143,7 +1143,7 @@ Microservice Project ; ).
 
 
 
-### Day 90, September 25, Wednesday
+### Day 90, September 26, Wednesday
 
 **Today's Progress**
 Went through the @freeCodeCamp
@@ -1160,3 +1160,25 @@ I used my URL shortener for the above link, but twitter linked through % ). Link
 1. [URL Shortener Microservice Project @ GitHub](https://github.com/timhagn/th-fcc-shorturl/)
 2. [URL Shortener Microservice Project @ "Shortener"](https://th-fcc-su.glitch.me/api/shorturl/2)
 3. [URL Shortener Microservice Project @ Glitch](https://th-fcc-su.glitch.me/)
+
+
+
+### Day 91, September 27, Thursday
+
+**Today's Progress**
+Finished @freeCodeCamp's
+Exercise Tracker Microservice
+Project after failing to get
+razzle running on @glitch,
+then stumbling over CRA
+on it (kudos!) and playing
+around with GatsbyJS on
+@codesandboxapp : ).
+
+And here it is on glitch: https://th-fcc-exercise.glitch.me/
+Did I say, that I like async ... await functions?
+I like async ... await functions ^^.
+
+**Link(s) to work**
+1. [Exercise Tracker Microservice Project @ GitHub](https://github.com/timhagn/th-fcc-headerparser/)
+2. [Exercise Tracker Microservice Project @ Glitch](https://th-fcc-exercise.glitch.me/)
