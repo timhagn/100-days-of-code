@@ -735,3 +735,14 @@ that's makes it a triple : ).
 As I needed less than half
 an hour for it, that won't
 be all for today, so stay tuned!
+
+### R1D92 (part 2)
+As said before, while I did
+@freeCodeCamp's MongoDB
+challenges and projects,
+I was a little annoyed at times
+by warnings and errors with
+outdated packages.
+So I just opened my first PR to the Repo.
+Wish me luck : ).
+https://tinyurl.com/th-fcc-pr

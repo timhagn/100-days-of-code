@@ -1204,3 +1204,21 @@ be all for today, so stay tuned!
 1. [File Metadata Microservice Project @ GitHub](https://github.com/timhagn/th-fcc-headerparser/)
 2. [File Metadata Microservice Project @ Glitch](https://th-fcc-filemeta.glitch.me/)
 3. [APIs and Microservices Certificate](https://www.freecodecamp.org/certification/timhagn/apis-and-microservices)
+
+
+
+### Day 92, September 28, Friday (part 2)
+
+**Today's (further) Progress**
+As said before, while I did
+@freeCodeCamp's MongoDB
+challenges and projects,
+I was a little annoyed at times
+by warnings and errors with
+outdated packages.
+So I just opened my first PR to the Repo.
+Wish me luck : ).
+https://tinyurl.com/th-fcc-pr
+
+**Link(s) to work**
+1. [Pull Request to APIs & Microservices @ GitHub](https://github.com/freeCodeCamp/boilerplate-mongomongoose/pull/8)
