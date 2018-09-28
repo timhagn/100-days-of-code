@@ -1182,3 +1182,25 @@ I like async ... await functions ^^.
 **Link(s) to work**
 1. [Exercise Tracker Microservice Project @ GitHub](https://github.com/timhagn/th-fcc-headerparser/)
 2. [Exercise Tracker Microservice Project @ Glitch](https://th-fcc-exercise.glitch.me/)
+
+
+
+### Day 92, September 28, Friday (part 1)
+
+**Today's Progress (so far)**
+Finished @freeCodeCamp's
+"File Metadata Microservice"
+Project and got me my
+"APIs and Microservices Certificate",
+that's makes it a triple : ).
+As I needed less than half
+an hour for it, that won't
+be all for today, so stay tuned!
+
+**Image(s) to "Work"**
+1. [APIs and Microservices Certificate](imgs/fCCMicroserviceCertificate.jpg)
+
+**Link(s) to work**
+1. [File Metadata Microservice Project @ GitHub](https://github.com/timhagn/th-fcc-headerparser/)
+2. [File Metadata Microservice Project @ Glitch](https://th-fcc-filemeta.glitch.me/)
+3. [APIs and Microservices Certificate](https://www.freecodecamp.org/certification/timhagn/apis-and-microservices)

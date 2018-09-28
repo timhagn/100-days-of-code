@@ -725,3 +725,13 @@ around with GatsbyJS on
 And here it is on glitch: https://th-fcc-exercise.glitch.me/
 Did I say, that I like async ... await functions?
 I like async ... await functions ^^.
+
+### R1D92 (part 1)
+Finished @freeCodeCamp's
+"File Metadata Microservice"
+Project and got me my
+"APIs and Microservices Certificate",
+that's makes it a triple : ).
+As I needed less than half
+an hour for it, that won't
+be all for today, so stay tuned!
