@@ -752,5 +752,8 @@ Having coded nothing on the
 weekend (needed a break after
 last week % ), I jumped straight
 back in and finally finished
-@freeCodeCamp's "Visualize Data
-with a Heat Map" Project.
+@freeCodeCamp's "Heat Map" Project.
+Afterwards finished the
+"Choropleth Map", which seemed
+easier than the first (except
+D3.js v5 % ).
