@@ -746,3 +746,11 @@ outdated packages.
 So I just opened my first PR to the Repo.
 Wish me luck : ).
 https://tinyurl.com/th-fcc-pr
+
+### R1D93
+Having coded nothing on the
+weekend (needed a break after
+last week % ), I jumped straight
+back in and finally finished
+@freeCodeCamp's "Visualize Data
+with a Heat Map" Project.

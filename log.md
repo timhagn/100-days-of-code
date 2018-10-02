@@ -1222,3 +1222,18 @@ https://tinyurl.com/th-fcc-pr
 
 **Link(s) to work**
 1. [Pull Request to APIs & Microservices @ GitHub](https://github.com/freeCodeCamp/boilerplate-mongomongoose/pull/8)
+
+
+
+### Day 93, October 2, Tuesday
+
+**Today's Progress**
+Having coded nothing on the
+weekend (needed a break after
+last week % ), I jumped straight
+back in and finally finished
+@freeCodeCamp's "Visualize Data
+with a Heat Map" Project.
+
+**Link(s) to work**
+1. [Visualize Data with a Heat Map Project @ CodePen](https://codepen.io/timhagn/full/PyPyVG/)
