@@ -1241,3 +1241,22 @@ D3.js v5 % ).
 **Link(s) to work**
 1. [Visualize Data with a Heat Map Project @ CodePen](https://codepen.io/timhagn/full/PyPyVG/)
 2. [Visualize Data with a Choropleth Map @ CodePen](https://codepen.io/timhagn/full/KGdYBd/)
+
+
+### Day 94, October 3, Wednesday
+
+**Today's Progress**
+The last Project of @freeCodeCamp's
+"Data Visualization Certification"
+was harder than the one before
+(too many examples still use D3.js v4
+or even v3 - but I went with v5 % ).
+But got me my certificate, that's
+a quadruple now : ).
+
+**Image(s) to "Work"**
+1. [Data Visualization Certificate](imgs/fCCDatavisualizationCertificate.jpg)
+
+**Link(s) to work**
+1. [Visualize Data with a Treemap Diagram Project @ CodePen](https://codepen.io/timhagn/full/bmEOzP/)
+2. [Data Visualization Certificate](https://www.freecodecamp.org/certification/timhagn/data-visualization)
