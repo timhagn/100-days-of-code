@@ -1260,3 +1260,10 @@ a quadruple now : ).
 **Link(s) to work**
 1. [Visualize Data with a Treemap Diagram Project @ CodePen](https://codepen.io/timhagn/full/bmEOzP/)
 2. [Data Visualization Certificate](https://www.freecodecamp.org/certification/timhagn/data-visualization)
+
+### Day 94, October 3, Wednesday (part 2)
+
+**Today's (further) Progress**
+Started and finished "Introduction 
+to Information Security with
+HelmetJS Challenges".

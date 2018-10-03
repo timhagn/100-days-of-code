@@ -761,8 +761,13 @@ D3.js v5 % ).
 ### R1D94
 The last Project of @freeCodeCamp's
 "Data Visualization Certification"
-was harder than the last (too many
-examples still use D3.js v4 or
-even v3 - but I went with v5 % )...
+was harder than the one before
+(too many examples still use D3.js v4
+or even v3 - but I went with v5 % ).
 But got me my certificate, that's
 a quadruple now : ).
+
+### R1D94 (part 2)
+Started and finished "Introduction
+to Information Security with
+HelmetJS Challenges".
