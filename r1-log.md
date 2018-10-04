@@ -771,3 +771,8 @@ a quadruple now : ).
 Started and finished "Introduction
 to Information Security with
 HelmetJS Challenges".
+
+### R1D95
+Started #hacktoberfest with two PRs
+to @freeCodeCamp's InfoSec Course's
+"HelmetJS" & "bcrypt" challenges.

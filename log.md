@@ -1264,6 +1264,19 @@ a quadruple now : ).
 ### Day 94, October 3, Wednesday (part 2)
 
 **Today's (further) Progress**
-Started and finished "Introduction 
+Started and finished "Introduction
 to Information Security with
 HelmetJS Challenges".
+
+
+
+### Day 95, October 4, Thursday
+
+**Today's Progress**
+Started #hacktoberfest with two PRs
+to @freeCodeCamp's InfoSec Course's
+"HelmetJS" & "bcrypt" challenges.
+
+**Link(s) to work**
+1. [PR to boilerplate-infosec @ GitHub](https://github.com/freeCodeCamp/boilerplate-infosec/pull/2)
+2. [PR to boilerplate-bcrypt @ GitHub](https://github.com/freeCodeCamp/boilerplate-bcrypt/pull/4)
