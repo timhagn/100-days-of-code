@@ -1270,7 +1270,7 @@ HelmetJS Challenges".
 
 
 
-### Day 95, October 4, Thursday
+### Day 95, October 4, Thursday (part 1)
 
 **Today's Progress**
 Started #hacktoberfest with two PRs
