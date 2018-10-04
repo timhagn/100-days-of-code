@@ -776,3 +776,11 @@ HelmetJS Challenges".
 Started #hacktoberfest with two PRs
 to @freeCodeCamp's InfoSec Course's
 "HelmetJS" & "bcrypt" challenges.
+
+### R1D95 (part 2)
+Was getting eager for #hacktoberfest,
+so on to the hunt for a few candidates.
+Afterwards, I managed to squeeze a
+few commits to my @freeCodeCamp's
+"TecDoc Page" in.
+▓▓▓▓▓▓▓▓▓▓░ 95%

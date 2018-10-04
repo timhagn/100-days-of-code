@@ -1272,7 +1272,7 @@ HelmetJS Challenges".
 
 ### Day 95, October 4, Thursday (part 1)
 
-**Today's Progress**
+**Today's (first) Progress**
 Started #hacktoberfest with two PRs
 to @freeCodeCamp's InfoSec Course's
 "HelmetJS" & "bcrypt" challenges.
@@ -1280,3 +1280,15 @@ to @freeCodeCamp's InfoSec Course's
 **Link(s) to work**
 1. [PR to boilerplate-infosec @ GitHub](https://github.com/freeCodeCamp/boilerplate-infosec/pull/2)
 2. [PR to boilerplate-bcrypt @ GitHub](https://github.com/freeCodeCamp/boilerplate-bcrypt/pull/4)
+
+
+
+### Day 95, October 4, Thursday (part 1)
+
+**Today's (further) Progress**
+Was getting eager for #hacktoberfest,
+so on to the hunt for a few candidates.
+Afterwards, I managed to squeeze a
+few commits to my @freeCodeCamp's
+"TecDoc Page" in.
+▓▓▓▓▓▓▓▓▓▓░ 95%
