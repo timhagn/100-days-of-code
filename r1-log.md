@@ -784,3 +784,12 @@ Afterwards, I managed to squeeze a
 few commits to my @freeCodeCamp's
 "TecDoc Page" in.
 ▓▓▓▓▓▓▓▓▓▓░ 95%
+
+### R1D96 (part 1?)
+Finished @freeCodeCamp's
+"QA with Chai Challenges".
+Afterwards I adapted the
+functional tests in it's  
+boilerplate Repo to newer
+zombie behavior and
+created (another %) PR...

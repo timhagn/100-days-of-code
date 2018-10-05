@@ -1292,3 +1292,20 @@ Afterwards, I managed to squeeze a
 few commits to my @freeCodeCamp's
 "TecDoc Page" in.
 ▓▓▓▓▓▓▓▓▓▓░ 95%
+
+
+
+### Day 96, October 5 Friday (part 1?)
+
+**Today's Progress**
+Finished @freeCodeCamp's
+"QA with Chai Challenges".
+Afterwards I adapted the
+functional tests in it's  
+boilerplate Repo to newer
+zombie behavior and
+created (another %) PR...
+
+**Link(s) to work**
+1. [QA with Chai Challenges @ Glitch](https://glitch.com/edit/#!/th-fcc-qa)
+2. [PR to boilerplate-mochachai @ GitHub](https://github.com/freeCodeCamp/boilerplate-mochachai/pull/6)
