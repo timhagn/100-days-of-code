@@ -1295,7 +1295,7 @@ few commits to my @freeCodeCamp's
 
 
 
-### Day 96, October 5 Friday (part 1?)
+### Day 96, October 5, Friday (part 1?)
 
 **Today's Progress**
 Finished @freeCodeCamp's
@@ -1309,3 +1309,19 @@ created (another %) PR...
 **Link(s) to work**
 1. [QA with Chai Challenges @ Glitch](https://glitch.com/edit/#!/th-fcc-qa)
 2. [PR to boilerplate-mochachai @ GitHub](https://github.com/freeCodeCamp/boilerplate-mochachai/pull/6)
+
+
+
+### Day 97, October 10, Wednesday
+
+**Today's Progress**
+After taking another break
+over the weekend and doing
+client-work yesterday,
+I jumped back into @freeCodeCamp
+and finished 13 of the 22
+"Advances Node and Express
+Challenges" with Authentication.
+
+**Link(s) to work**
+1. [Advances Node and Express Challenges @ Glitch](https://th-fcc-an.glitch.me/)

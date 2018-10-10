@@ -793,3 +793,12 @@ functional tests in it's
 boilerplate Repo to newer
 zombie behavior and
 created (another %) PR...
+
+### R1D97
+After taking another break
+over the weekend and doing
+client-work yesterday,
+I jumped back into @freeCodeCamp
+and finished 13 of the 22
+"Advances Node and Express
+Challenges" with authentication.
