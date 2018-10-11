@@ -1321,7 +1321,24 @@ client-work yesterday,
 I jumped back into @freeCodeCamp
 and finished 13 of the 22
 "Advances Node and Express
-Challenges" with Authentication.
+Challenges" with authentication.
 
 **Link(s) to work**
 1. [Advances Node and Express Challenges @ Glitch](https://th-fcc-an.glitch.me/)
+
+
+
+### Day 98, October 11, Friday
+
+**Today's Progress**
+Finished the rest of @freeCodeCamp's
+"Advances Node and Express
+Challenges" (and definitely will
+have to do a PR, they are buggy ; ).
+Afterwards did the Project
+"Metric-Imperial Converter"
+and "relaxed" with 2 of
+Project Euler algs.
+
+**Link(s) to work**
+1. [Metric Imperial Converter Project @ Glitch](https://th-fcc-metimp.glitch.me/)

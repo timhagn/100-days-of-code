@@ -802,3 +802,13 @@ I jumped back into @freeCodeCamp
 and finished 13 of the 22
 "Advances Node and Express
 Challenges" with authentication.
+
+### R1D98
+Finished the rest of @freeCodeCamp's
+"Advances Node and Express
+Challenges" (and definitely will
+have to do a PR, they are buggy ; ).
+Afterwards did the Project
+"Metric-Imperial Converter"
+and "relaxed" with 2 of
+Project Euler algos.
