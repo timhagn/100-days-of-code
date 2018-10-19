@@ -1328,7 +1328,7 @@ Challenges" with authentication.
 
 
 
-### Day 98, October 11, Friday
+### Day 98, October 11, Thursday
 
 **Today's Progress**
 Finished the rest of @freeCodeCamp's
