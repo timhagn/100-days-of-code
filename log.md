@@ -1338,7 +1338,45 @@ have to do a PR, they are buggy ; ).
 Afterwards did the Project
 "Metric-Imperial Converter"
 and "relaxed" with 2 of
-Project Euler algs.
+Project Euler algos.
 
 **Link(s) to work**
 1. [Metric Imperial Converter Project @ Glitch](https://th-fcc-metimp.glitch.me/)
+
+
+
+### Day 99, October 19, Friday
+
+**Today's "Progress"**
+1/3
+Of course it was a bad idea
+to get back into the challenge
+after more than a 24h of
+sleeplessness, but still managed
+to finish @freeCodeCamp's
+"Issue Tracker Project" in way
+too much time: ~2h til the tests
+were all showing green - but
+wait for it:
+
+2/3
+Later over 4 more hours of
+debugging caused by a switched
+key / value pair -.-
+
+And I didn't post any updates,
+cause I was feeling under the
+weather with partially self-imposed
+ailment for the last week where
+I just got to some reading and
+too many thoughts and ideas...
+
+3/3
+...bad ones of both kind, I just
+can't count for the challenge % |.
+
+But on to a final sprint ^^!
+
+**Link(s) to work**
+1. [Issue Tracker Project @ GitHub](https://github.com/timhagn/th-fcc-issue)
+2. [Issue Tracker Project @ Glitch](https://th-fcc-issue.glitch.me/)
