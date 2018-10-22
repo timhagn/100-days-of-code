@@ -1380,3 +1380,28 @@ But on to a final sprint ^^!
 **Link(s) to work**
 1. [Issue Tracker Project @ GitHub](https://github.com/timhagn/th-fcc-issue)
 2. [Issue Tracker Project @ Glitch](https://th-fcc-issue.glitch.me/)
+
+
+
+### Day 100, October 22, Monday - finished : ) - or am I?
+
+**Today's "Progress"**
+▓▓▓▓▓▓▓▓▓▓ 100%
+On my last day of the Challenge
+I binge-programmed through the
+last three @freeCodeCamp ISC-Projects
+and got my fifth Certificate : ).
+P.S.: I'm thinking bout giving
+me a penalty, but more on it
+tomorrow, am completely burnt % ).
+
+**Image(s) to "Work"**
+1. [Information Security and Quality Assurance Certificate](imgs/fCCISCandQACertificate.jpg)
+
+**Link(s) to work**
+1. [Personal Library Project @ GitHub](https://github.com/timhagn/th-fcc-library)
+2. [Personal Library Project @ Glitch](https://th-fcc-library.glitch.me/)
+1. [Stock Price Checker Project @ GitHub](https://github.com/timhagn/th-fcc-stock)
+2. [Stock Price Checker Project @ Glitch](https://th-fcc-stock.glitch.me/)
+1. [Anonymous Message Board Project @ GitHub](https://github.com/timhagn/th-fcc-issue)
+2. [Anonymous Message Board @ Glitch](https://github.com/timhagn/th-fcc-msgb)

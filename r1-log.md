@@ -846,3 +846,13 @@ But on to a final sprint ^^!
 Here's the Issue Tracker:
 GitHub: https://github.com/timhagn/th-fcc-issue
 Glitch: https://th-fcc-issue.glitch.me/
+
+### R1D100
+▓▓▓▓▓▓▓▓▓▓ 100%
+On my last day of the Challenge
+I binge-programmed through the
+last three @freeCodeCamp ISC-Projects
+and got my fifth Certificate : ).
+P.S.: I'm thinking bout giving
+me a penalty, but more on it
+tomorrow, am completely burnt % ).
