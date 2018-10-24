@@ -1401,7 +1401,22 @@ tomorrow, am completely burnt % ).
 **Link(s) to work**
 1. [Personal Library Project @ GitHub](https://github.com/timhagn/th-fcc-library)
 2. [Personal Library Project @ Glitch](https://th-fcc-library.glitch.me/)
-1. [Stock Price Checker Project @ GitHub](https://github.com/timhagn/th-fcc-stock)
-2. [Stock Price Checker Project @ Glitch](https://th-fcc-stock.glitch.me/)
-1. [Anonymous Message Board Project @ GitHub](https://github.com/timhagn/th-fcc-issue)
-2. [Anonymous Message Board @ Glitch](https://github.com/timhagn/th-fcc-msgb)
+3. [Stock Price Checker Project @ GitHub](https://github.com/timhagn/th-fcc-stock)
+4. [Stock Price Checker Project @ Glitch](https://th-fcc-stock.glitch.me/)
+5. [Anonymous Message Board Project @ GitHub](https://github.com/timhagn/th-fcc-issue)
+6. [Anonymous Message Board @ Glitch](https://github.com/timhagn/th-fcc-msgb)
+
+
+
+### Day 100 + 1 & 2, October 23, Tuesday & October 24, Wednesday
+
+**Twoday's "Progress"**
+Thnx for your kindness!
+I completely forgot to tell you,
+that I'm already in my penalty ^^.
+Yesterday I did a PR to
+"styled-media-queries", bumping
+it to styled-components 4
+and Babel 7. Today I wrote
+the first tests in jest for it : ).
+#Hacktoberfest

@@ -856,3 +856,14 @@ and got my fifth Certificate : ).
 P.S.: I'm thinking bout giving
 me a penalty, but more on it
 tomorrow, am completely burnt % ).
+
+### R1D100 + P1+2
+Thnx for your kindness!
+I completely forgot to tell you,
+that I'm already in my penalty ^^.
+Yesterday I did a PR to
+"styled-media-queries", bumping
+it to styled-components 4
+and Babel 7. Today I wrote
+the first tests in jest for it : ).
+#Hacktoberfest
