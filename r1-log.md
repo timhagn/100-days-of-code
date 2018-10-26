@@ -876,3 +876,11 @@ me a quick intro to react-test-renderer &
 jest-styled-components, try to write
 some tests with them and... fail % ).
 #Hacktoberfest2018
+
+### ReD100 + P4
+Today I finished writing the tests
+while getting myself an intro to
+jest-styled-components.
+With finishing this PR, I reached
+my goal for #Hacktoberfest : ).
+https://hacktoberfest.digitalocean.com/stats/timhagn

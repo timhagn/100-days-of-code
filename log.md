@@ -1433,3 +1433,18 @@ me a quick intro to react-test-renderer &
 jest-styled-components, try to write
 some tests with them and... fail % ).
 #Hacktoberfest2018
+
+
+
+### Day 100 + 4, October 26, Friday
+
+**Today's "Progress"**
+Today I finished writing the tests
+while getting myself an intro to
+jest-styled-components.
+With finishing this PR, I reached
+my goal for #Hacktoberfest : ).
+#Hacktoberfest2018
+
+**Link(s) to work**
+1. [Hacktoberfest Page](https://hacktoberfest.digitalocean.com/stats/timhagn)
