@@ -1420,3 +1420,16 @@ it to styled-components 4
 and Babel 7. Today I wrote
 the first tests in jest for it : ).
 #Hacktoberfest
+
+
+
+### Day 100 + 3, October 25, Thursday
+
+**Today's "Progress"**
+As I had to go to the German consulate
+today to get my ID renewed and apply
+for a passport, I just managed to give
+me a quick intro to react-test-renderer &
+jest-styled-components, try to write
+some tests with them and... fail % ).
+#Hacktoberfest2018
