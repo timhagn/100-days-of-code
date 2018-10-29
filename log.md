@@ -1448,3 +1448,17 @@ my goal for #Hacktoberfest : ).
 
 **Link(s) to work**
 1. [Hacktoberfest Page](https://hacktoberfest.digitalocean.com/stats/timhagn)
+
+
+
+### Day 100 + 5, October 29, Monday
+
+**Today's "Progress"**
+Started @freeCodeCamp's "Personal
+Portfolio Webpage" Project. Trying
+it with Drupal as Backend and
+Gatsby as Frontend, but ran into
+Permission problems on my hosting -.-
+
+**Image(s) to "Work"**
+1. [Portfolio Backend](imgs/portfolio-backend.jpg)

@@ -877,10 +877,17 @@ jest-styled-components, try to write
 some tests with them and... fail % ).
 #Hacktoberfest2018
 
-### ReD100 + P4
+### R1D100 + P4
 Today I finished writing the tests
 while getting myself an intro to
 jest-styled-components.
 With finishing this PR, I reached
 my goal for #Hacktoberfest : ).
 https://hacktoberfest.digitalocean.com/stats/timhagn
+
+### R1D100 + P5
+Started @freeCodeCamp's "Personal
+Portfolio Webpage" Project. Trying
+it with Drupal as Backend and
+Gatsby as Frontend, but ran into
+Permission problems on my hosting -.-
