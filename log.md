@@ -1462,3 +1462,16 @@ Permission problems on my hosting -.-
 
 **Image(s) to "Work"**
 1. [Portfolio Backend](imgs/portfolio-backend.jpg)
+
+
+
+### Day 100 + 6, October 30, Tuesday
+
+**Today's "Progress"**
+Yesterday's Problem didn't arise
+through Drupal permissions, but
+rather through DDOS prevention
+on my hosting. I therefore created
+a PR with a rateLimit for
+gatsby-source-drupal : ).
+#Hacktoberfest
