@@ -900,3 +900,12 @@ on my hosting. I therefore created
 a PR with a rateLimit for
 gatsby-source-drupal : ).
 #Hacktoberfest
+Am coding on ^^.
+
+### R1D100 + P6 (part 2)
+After the PR was done and Gatsby
+working with Drupal, I continued
+working on @freeCodeCamp's
+"Personal Portfolio Webpage" Project.
+8 of 12 tests are passing and I'm  
+getting comfy with GraphQL : ).

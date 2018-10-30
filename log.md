@@ -1385,7 +1385,7 @@ But on to a final sprint ^^!
 
 ### Day 100, October 22, Monday - finished : ) - or am I?
 
-**Today's "Progress"**
+**Today's Progress**
 ▓▓▓▓▓▓▓▓▓▓ 100%
 On my last day of the Challenge
 I binge-programmed through the
@@ -1410,7 +1410,7 @@ tomorrow, am completely burnt % ).
 
 ### Day 100 + 1 & 2, October 23, Tuesday & October 24, Wednesday
 
-**Twoday's "Progress"**
+**Twoday's Progress**
 Thnx for your kindness!
 I completely forgot to tell you,
 that I'm already in my penalty ^^.
@@ -1438,7 +1438,7 @@ some tests with them and... fail % ).
 
 ### Day 100 + 4, October 26, Friday
 
-**Today's "Progress"**
+**Today's Progress**
 Today I finished writing the tests
 while getting myself an intro to
 jest-styled-components.
@@ -1453,7 +1453,7 @@ my goal for #Hacktoberfest : ).
 
 ### Day 100 + 5, October 29, Monday
 
-**Today's "Progress"**
+**Today's Progress**
 Started @freeCodeCamp's "Personal
 Portfolio Webpage" Project. Trying
 it with Drupal as Backend and
@@ -1467,7 +1467,7 @@ Permission problems on my hosting -.-
 
 ### Day 100 + 6, October 30, Tuesday (part 1)
 
-**Today's "Progress"**
+**Today's Progress**
 Yesterday's Problem didn't arise
 through Drupal permissions, but
 rather through DDOS prevention
@@ -1475,3 +1475,16 @@ on my hosting. I therefore created
 a PR with a rateLimit for
 gatsby-source-drupal : ).
 #Hacktoberfest
+Am coding on ^^.
+
+
+
+### Day 100 + 6, October 30, Tuesday (part 2)
+
+**Today's further Progress**
+After the PR was done and Gatsby
+working with Drupal, I continued
+working on @freeCodeCamp's
+"Personal Portfolio Webpage" Project.
+8 of 12 tests are passing and I'm  
+getting comfy with GraphQL : ).
