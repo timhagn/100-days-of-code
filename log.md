@@ -1465,7 +1465,7 @@ Permission problems on my hosting -.-
 
 
 
-### Day 100 + 6, October 30, Tuesday
+### Day 100 + 6, October 30, Tuesday (part 1)
 
 **Today's "Progress"**
 Yesterday's Problem didn't arise

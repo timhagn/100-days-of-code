@@ -892,7 +892,7 @@ it with Drupal as Backend and
 Gatsby as Frontend, but ran into
 Permission problems on my hosting -.-
 
-### R1D100 + P6
+### R1D100 + P6 (part 1)
 Yesterday's Problem didn't arise
 through Drupal permissions, but
 rather through DDOS prevention
