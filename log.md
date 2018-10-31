@@ -1488,3 +1488,15 @@ working on @freeCodeCamp's
 "Personal Portfolio Webpage" Project.
 8 of 12 tests are passing and I'm  
 getting comfy with GraphQL : ).
+
+
+
+### Day 100 + 7, October 31, Wednesday
+
+**Today's Progress**
+Happy ol' hallow's eve, everyone ^^!
+Continued working on @freeCodeCamp's
+"Personal Portfolio Webpage" Project.
+Now all tests are passing, but still
+got much to do (especially getting
+the Projects from Drupal).

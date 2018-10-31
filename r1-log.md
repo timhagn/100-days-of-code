@@ -909,3 +909,12 @@ working on @freeCodeCamp's
 "Personal Portfolio Webpage" Project.
 8 of 12 tests are passing and I'm  
 getting comfy with GraphQL : ).
+
+### R1D100 + P7
+Happy ol' hallow's eve, everyone ^^!
+#HappyHalloween
+I continued working on @freeCodeCamp's
+"Personal Portfolio Webpage" Project.
+Now all tests are passing, but still
+got much to do (especially getting
+the Projects from Drupal).
