@@ -918,3 +918,9 @@ I continued working on @freeCodeCamp's
 Now all tests are passing, but still
 got much to do (especially getting
 the Projects from Drupal).
+
+### R1D100 + P8
+In the aftermath (I like this word ; )
+of Hallow's eve, I only managed to
+fix some styles and finish my NavBar.
+More in the morrow ^^.

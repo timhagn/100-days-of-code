@@ -1495,8 +1495,19 @@ getting comfy with GraphQL : ).
 
 **Today's Progress**
 Happy ol' hallow's eve, everyone ^^!
-Continued working on @freeCodeCamp's
+#HappyHalloween
+I continued working on @freeCodeCamp's
 "Personal Portfolio Webpage" Project.
 Now all tests are passing, but still
 got much to do (especially getting
 the Projects from Drupal).
+
+
+
+### Day 100 + 8, November 1, Thursday
+
+**Today's Progress**
+In the aftermath (I like this word ; )
+of Hallow's eve, I only managed to
+fix some styles and finish my NavBar.
+More in the morrow ^^.
