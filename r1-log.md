@@ -924,3 +924,18 @@ In the aftermath (I like this word ; )
 of Hallow's eve, I only managed to
 fix some styles and finish my NavBar.
 More in the morrow ^^.
+
+### R1D100 + P9
+Felt under the weather this week
+and down with some sickness.
+Only managed to help a few newbies,
+(I hope so ; ).
+Today I struggled for ~10h with
+Gatsby and dependency hell cause
+of a well meant change to my PR
+to it - but up and running, again : ).
+
+Yeah, maybe I should restart my
+penalty, but feeling penalized enough
+as it is % )...
+What do you think?
