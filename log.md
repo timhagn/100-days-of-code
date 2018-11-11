@@ -1530,3 +1530,27 @@ Yeah, maybe I should restart my
 penalty, but feeling penalized enough
 as it is % )...
 What do you think?
+
+
+### Day 100 + 10, November 10, Saturday
+
+**Today's Progress**
+Continued working on my Portfolio
+Page (yup, still @freeCodeCamp ; ),
+sitting at the Projects Part (last
+one) and getting the hang about
+mixing #Drupal & #Gatsby : ).
+
+
+
+### Day 100 + 11, November 11, Sunday
+
+**Today's Progress**
+As I was annoyed with existing
+workarounds to use the amazing
+"gatsby-image" as a background
+image, I salvaged it to start a
+"gatsby-background-image"
+component using CSS ^^.
+Hope to be able to release to the
+wild next week, stay tuned : ).
