@@ -956,3 +956,12 @@ image, I salvaged it to start a
 component using CSS ^^.
 Hope to be able to release to the
 wild next week, stay tuned : ).
+
+### R1D100 + P12 & 13
+Completely forgot to post yesterday,
+cause after proggin, there was
+(kitchen deep) cleaning.
+Finally finished my Portfolio Page,
+added a 404 today and "only" have
+to replace the dummy content with
+the real thing tomorrow : ).

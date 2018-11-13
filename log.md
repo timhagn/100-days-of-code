@@ -1554,3 +1554,17 @@ image, I salvaged it to start a
 component using CSS ^^.
 Hope to be able to release to the
 wild next week, stay tuned : ).
+
+### Day 100 + 12 & 13, November 12, Monday + November 13, Tuesday
+
+**Today's Progress**
+Completely forgot to post yesterday,
+cause after proggin, there was
+(kitchen deep) cleaning.
+Finally finished my Portfolio Page,
+added a 404 today and "only" have
+to replace the dummy content with
+the real thing tomorrow : ).
+
+**Image(s) to "Work"**
+1. [Portfolio 404](imgs/th-404.jpg)
