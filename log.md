@@ -1568,3 +1568,20 @@ the real thing tomorrow : ).
 
 **Image(s) to "Work"**
 1. [Portfolio 404](imgs/th-404.jpg)
+
+
+
+### Day 100 + 14 & 15, November 14 - 16
+
+**Threeday's Progress**
+Didn't forget to tweet, just couldn't
+account for "real coding".
+Wrote text for the site, looked
+into an Android App for an aquaintance
+and refactored a little...
+Can anyone explain to me, why the
+backgroundStyles won't be set?
+
+**Link(s) to work**
+1. [BackgroundImage Gist](https://gist.github.com/timhagn/2e1bd849e7385c577925d400817eee6d)
+1. [BackgroundImage Gist tinyurl](https://tinyurl.com/th-bg-gist)

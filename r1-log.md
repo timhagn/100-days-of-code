@@ -965,3 +965,12 @@ Finally finished my Portfolio Page,
 added a 404 today and "only" have
 to replace the dummy content with
 the real thing tomorrow : ).
+
+### R1D100 + P14 & 15
+Didn't forget to tweet, just couldn't
+account for "real coding".
+Wrote text for the site, looked
+into an Android App for an aquaintance
+and refactored a little...
+Can anyone explain to me, why the
+backgroundStyles won't be set?
