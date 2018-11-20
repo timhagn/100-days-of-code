@@ -1585,3 +1585,29 @@ backgroundStyles won't be set?
 **Link(s) to work**
 1. [BackgroundImage Gist](https://gist.github.com/timhagn/2e1bd849e7385c577925d400817eee6d)
 1. [BackgroundImage Gist tinyurl](https://tinyurl.com/th-bg-gist)
+
+
+
+### Day 100 + P--
+
+**Threeday's Progress**
+On Saturday I thought I failed a quite long
+assessment test - but seems I didn't % ).
+But, alas, my main workstation's Motherboard
+suddenly stopped working yesterday,
+that's why I didn't post -.-
+Hope to get back up and running this week...
+
+
+
+### Day 100 + 16, November 20, Tuesday
+
+**Today's Progress**
+Replaced my main workstation with
+my Dev-Laptop for the moment.
+Had to attend a "coding interview"
+in the afternoon for ~2h, and
+I don't know if I nailed or failed,
+feeling like the latter -.-
+But we gotta see, what we gotta see...
+#braindead now...

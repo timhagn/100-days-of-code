@@ -974,3 +974,21 @@ into an Android App for an aquaintance
 and refactored a little...
 Can anyone explain to me, why the
 backgroundStyles won't be set?
+
+### R1D100 + P--
+On Saturday I thought I failed a quite long
+assessment test - but seems I didn't % ).
+But, alas, my main workstation's Motherboard
+suddenly stopped working yesterday,
+that's why I didn't post -.-
+Hope to get back up and running this week...
+
+### R1D100 + P16
+Replaced my main workstation with
+my Dev-Laptop for the moment.
+Had to attend a "coding interview"
+in the afternoon for ~2h, and
+I don't know if I nailed or failed,
+feeling like the latter -.-
+But we gotta see, what we gotta see...
+#braindead now...
