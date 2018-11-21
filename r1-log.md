@@ -992,3 +992,13 @@ I don't know if I nailed or failed,
 feeling like the latter -.-
 But we gotta see, what we gotta see...
 #braindead now...
+
+### R1D100 + P17
+Can't believe the interview did
+in fact go well, after all % ).
+Got up and... uhm... limping again
+and at least managed to continue
+with my Portfolio Page (some errors
+like 404 & favicons still remaining... ; ).
+First audit (on server):
+![Portfolio Audit](imgs/th-audit.jpg)
