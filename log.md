@@ -1627,3 +1627,16 @@ First audit (on server):
 
 **Image(s) to "Work"**
 1. [Portfolio Audit](imgs/th-audit.jpg)
+
+
+
+### Day 100 + 17, November 22, Thursday
+
+**Today's Progress**
+Got stuck with HTML normalization
+today while writing and receiving
+texts from the #Drupal backend.
+And yup (don't hit me) I even tried
+RegEx % ). Why isn't there a _simple_
+alternative for DOMParser in @nodejs?
+Or did I miss something in @Gatsby?

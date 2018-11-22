@@ -1002,3 +1002,12 @@ with my Portfolio Page (some errors
 like 404 & favicons still remaining... ; ).
 First audit (on server):
 ![Portfolio Audit](imgs/th-audit.jpg)
+
+### R1D100 + P18
+Got stuck with HTML normalization
+today while writing and receiving
+texts from the #Drupal backend.
+And yup (don't hit me) I even tried
+RegEx % ). Why isn't there a _simple_
+alternative for DOMParser in @nodejs?
+Or did I miss something in @Gatsby?
