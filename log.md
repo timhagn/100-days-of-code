@@ -1630,7 +1630,7 @@ First audit (on server):
 
 
 
-### Day 100 + 17, November 22, Thursday
+### Day 100 + 18, November 22, Thursday
 
 **Today's Progress**
 Got stuck with HTML normalization
@@ -1640,3 +1640,19 @@ And yup (don't hit me) I even tried
 RegEx % ). Why isn't there a _simple_
 alternative for DOMParser in @nodejs?
 Or did I miss something in @Gatsby?
+
+
+
+### Day 100 + 19, November 23, Friday
+
+**Today's Progress**
+Sidetracked myself from the portfolio
+with creating a React Component for
+automated mocking up of Screenshots
+to be realized as a @npmjs & #Drupal
+module later on (was dissatisfied
+with my project images ; ).
+Only fixed some grid CSS on the site...
+
+**Image(s) to "Work"**
+1. [MockMe Screenshot](imgs/mockme-screenshot.png)

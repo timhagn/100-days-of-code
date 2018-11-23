@@ -1011,3 +1011,12 @@ And yup (don't hit me) I even tried
 RegEx % ). Why isn't there a _simple_
 alternative for DOMParser in @nodejs?
 Or did I miss something in @Gatsby?
+
+### R1D100 + P19
+Sidetracked myself from the portfolio
+with creating a React Component for
+automated mocking up of Screenshots
+to be realized as a @npmjs & #Drupal
+module later on (was dissatisfied
+with my project images ; ).
+Only fixed some grid CSS on the site...
