@@ -1656,3 +1656,19 @@ Only fixed some grid CSS on the site...
 
 **Image(s) to "Work"**
 1. [MockMe Screenshot](imgs/mockme-screenshot.png)
+
+
+
+### Day 100 + 20, November 24, Saturday
+
+**Today's Progress**
+Took today "slowly" and "only" worked
+on updating my PRs to "styled-media-query",
+two @freeCodeCamp boilerplates
+(@ossia will they ever get merged? ; )
+and updated "MockMe" with choose-able
+mock images. Also started preparing
+it for usage as a #Drupal Module : ).
+
+**Image(s) to "Work"**
+1. [MockMe Screenshot](imgs/mockme2-screenshot.jpg)

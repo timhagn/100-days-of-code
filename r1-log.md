@@ -1020,3 +1020,12 @@ to be realized as a @npmjs & #Drupal
 module later on (was dissatisfied
 with my project images ; ).
 Only fixed some grid CSS on the site...
+
+### R1D100 + P20
+Took today "slowly" and "only" worked
+on updating my PRs to "styled-media-query",
+two @freeCodeCamp boilerplates
+(@ossia will they ever get merged? ; )
+and updated "MockMe" with choose-able
+mock images. Also started preparing
+it for usage as a #Drupal Module : ).
