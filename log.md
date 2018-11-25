@@ -1672,3 +1672,19 @@ it for usage as a #Drupal Module : ).
 
 **Image(s) to "Work"**
 1. [MockMe Screenshot](imgs/mockme2-screenshot.jpg)
+
+
+
+### Day 100 + 21, November 25, Sunday
+
+**Today's Progress**
+Worked for only 3h33m till now,
+but hey, it's Sunday ; ).
+Now you can grab external Screenshots
+with MockMe, a.t.m. through the sadly
+discontinued PhantomJS. Integrated
+back end with composer and wrote
+first steps of a #Drupal integration : ).
+
+**Image(s) to "Work"**
+1. [MockMe Screenshot](imgs/mockme3-screenshot.jpg)

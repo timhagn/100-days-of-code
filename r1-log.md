@@ -1029,3 +1029,12 @@ two @freeCodeCamp boilerplates
 and updated "MockMe" with choose-able
 mock images. Also started preparing
 it for usage as a #Drupal Module : ).
+
+### R1D100 + P21
+Worked for only 3h33m till now,
+but hey, it's Sunday ; ).
+Now you can grab external Screenshots
+with MockMe, a.t.m. through the sadly
+discontinued PhantomJS. Integrated
+back end with composer and wrote
+first steps of a #Drupal integration : ).
