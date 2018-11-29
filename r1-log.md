@@ -1038,3 +1038,13 @@ with MockMe, a.t.m. through the sadly
 discontinued PhantomJS. Integrated
 back end with composer and wrote
 first steps of a #Drupal integration : ).
+
+### R1D100 + P22,23,24,25
+Didn't stop working the last
+four Days, just was to groggy
+after it to post ^^.
+Still on my "MockMe" Sidetrack,
+meanwhile it's integrated in
+Drupal, I just have to switch
+the Widget for a Preview...
+Is this procrastination % )?
