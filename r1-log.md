@@ -1048,3 +1048,12 @@ meanwhile it's integrated in
 Drupal, I just have to switch
 the Widget for a Preview...
 Is this procrastination % )?
+
+### R1D100 + P26
+Finally it's working! Below, I "proudly"
+present the first version of
+"Mockme Widget" for @Drupal : ).
+Grab it at
+https://github.com/timhagn/mockme
+Now back to the Portfolio Page
+to at last get that one finished, too % ).

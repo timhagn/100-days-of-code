@@ -1705,3 +1705,19 @@ Is this procrastination % )?
 
 **Image(s) to "Work"**
 1. [MockMe Screenshot](imgs/mockme4-screenshot-drupal.jpg)
+
+
+
+### Day 100 + 26, November 30, Friday
+
+**Today's Progress**
+Finally it's working! Below, I "proudly"
+present the first version of
+"Mockme Widget" for @Drupal : ).
+Grab it at
+https://github.com/timhagn/mockme
+Now back to the Portfolio Page
+to at last get that one finished, too % ).
+
+**Image(s) to "Work"**
+1. [MockMe Drupal Widget Screenshot](imgs/mockme-drupal-screenshot.jpg)
