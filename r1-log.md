@@ -1057,3 +1057,10 @@ Grab it at
 https://github.com/timhagn/mockme
 Now back to the Portfolio Page
 to at last get that one finished, too % ).
+
+### R1D100 + P27
+Although I did work over the weekend,
+I'd only count it as one day.
+Haven't done enough, to do otherwise ; ).
+Some tweaking and integration.
+Now on to more : )!

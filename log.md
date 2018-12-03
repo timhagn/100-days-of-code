@@ -1721,3 +1721,14 @@ to at last get that one finished, too % ).
 
 **Image(s) to "Work"**
 1. [MockMe Drupal Widget Screenshot](imgs/mockme-drupal-screenshot.jpg)
+
+
+
+### Day 100 + 27, December 1 + 2, Saturday & Sunday
+
+**Twoday's Progress**
+Although I did work over the weekend,
+I'd only count it as one day.
+Haven't done enough, to do otherwise ; ).
+Some tweaking and integration.
+Now on to more : )!
