@@ -1732,3 +1732,19 @@ I'd only count it as one day.
 Haven't done enough, to do otherwise ; ).
 Some tweaking and integration.
 Now on to more : )!
+
+
+
+### Day 100 + 28, December 3, Monday
+
+**Today's Progress**
+Soon there won't be screenshots,
+but links, I promise % ).
+Continued on my @freeCodeCamp
+Portfolio Page, added more Projects
+and a "load more" Button.
+Tweaked MockMe as well, 
+don't ya think ; ).
+
+**Image(s) to "Work"**
+1. [Portfolio Show More Screenshot](imgs/portfolio_show_more.jpg)

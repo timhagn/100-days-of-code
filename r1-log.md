@@ -1064,3 +1064,12 @@ I'd only count it as one day.
 Haven't done enough, to do otherwise ; ).
 Some tweaking and integration.
 Now on to more : )!
+
+### R1D100 + P28
+Soon there won't be screenshots,
+but links, I promise % ).
+Continued on my @freeCodeCamp
+Portfolio Page, added more Projects
+and a "load more" Button.
+Tweaked MockMe as well,
+don't ya think ; ).
