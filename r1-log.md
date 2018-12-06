@@ -1073,3 +1073,12 @@ Portfolio Page, added more Projects
 and a "load more" Button.
 Tweaked MockMe as well,
 don't ya think ; ).
+
+###R1D100 + P29
+Took it slowly the last two days,
+as I wasn't feeling so well.
+Still managed to work on my page,
+"show more" is working and I'm
+nearly finished. These are the
+latest audits - the last % I'm
+gonna squeeze out, too ; ).

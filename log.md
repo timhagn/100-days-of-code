@@ -1743,8 +1743,22 @@ but links, I promise % ).
 Continued on my @freeCodeCamp
 Portfolio Page, added more Projects
 and a "load more" Button.
-Tweaked MockMe as well, 
+Tweaked MockMe as well,
 don't ya think ; ).
 
 **Image(s) to "Work"**
 1. [Portfolio Show More Screenshot](imgs/portfolio_show_more.jpg)
+
+### Day 100 + 29, December 5, Thursday
+
+**Today's Progress**
+Took it slowly the last two days,
+as I wasn't feeling so well.
+Still managed to work on my page,
+"show more" is working and I'm
+nearly finished. These are the
+latest audits - the last % I'm
+gonna squeeze out, too ; ).
+
+**Image(s) to "Work"**
+1. [Lighthouse Audit](imgs/th-audit02.jpg)
