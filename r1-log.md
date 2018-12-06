@@ -1080,5 +1080,5 @@ as I wasn't feeling so well.
 Still managed to work on my page,
 "show more" is working and I'm
 nearly finished. These are the
-latest audits - the last % I'm
-gonna squeeze out, too ; ).
+latest audits - I'm gonna squeeze out
+the last %s, too ; ).
