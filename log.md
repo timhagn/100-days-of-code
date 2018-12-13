@@ -1749,6 +1749,8 @@ don't ya think ; ).
 **Image(s) to "Work"**
 1. [Portfolio Show More Screenshot](imgs/portfolio_show_more.jpg)
 
+
+
 ### Day 100 + 29, December 5, Thursday
 
 **Today's Progress**
@@ -1762,3 +1764,21 @@ the last %s, too ; ).
 
 **Image(s) to "Work"**
 1. [Lighthouse Audit](imgs/th-audit02.jpg)
+
+
+
+### Day 100 + 3x, December 13, Thursday
+
+**Last Days' Progress**
+Although I was "lazy" pertaining
+tweets, I worked as hell the last
+week to finally finish
+@freeCodeCamp's Curriculum.
+Today I published
+'gatsby-background-image',
+check it out!
+Tomorrow I'm gonna claim my
+remaining certs : )!
+
+**Link(s) to work**
+1. [gatsby-background-image @ npmjs](https://www.npmjs.com/package/gatsby-background-image)

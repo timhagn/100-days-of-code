@@ -1082,3 +1082,14 @@ Still managed to work on my page,
 nearly finished. These are the
 latest audits - I'm gonna squeeze out
 the last %s, too ; ).
+
+###R1D100 + P3x
+Although I was "lazy" pertaining
+tweets, I worked as hell the last
+week to finally finish
+@freeCodeCamp's Curriculum.
+Today I published
+'gatsby-background-image',
+check it out!
+Tomorrow I'm gonna claim my
+remaining certs : )!
