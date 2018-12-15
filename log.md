@@ -1782,3 +1782,26 @@ remaining certs : )!
 
 **Link(s) to work**
 1. [gatsby-background-image @ npmjs](https://www.npmjs.com/package/gatsby-background-image)
+
+
+
+### Day 100 + 3x, December 14, Friday
+
+**Today's Progress**
+After exactly half a year (with many
+detours to other resources) I've
+finished the @freeCodeCamp Curriculum
+and got my last two certificates : )!
+Though there are some TODOs for my
+last two projects, see the results
+through the links below.
+
+**Link(s) to work**
+1. [Portfolio Page](https://fcc.timhagn.com/)
+2. [Portfolio Page Front End @ GitHub](https://github.com/timhagn/th_front)
+3. [Technical Documentation Page @ CodePen](https://codepen.io/timhagn/full/oPgOqw)
+4. [Responsive Web Design Projects @ GitHub](https://github.com/timhagn/fcc-rwdp)
+
+**Image(s) to "Work"**
+1. [Responsive Web Design Certificate](imgs/fCCResponsiveWebDCertificate.jpg)
+2. [Full Stack Certificate](imgs/fCCFullStackCertificate.jpg)
